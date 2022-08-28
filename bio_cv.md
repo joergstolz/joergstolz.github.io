@@ -19,4 +19,4 @@ the book « Congregations in Europe » (Springer, with Christophe Monnot).
 
 
 
-[Current CV]("assets/CV_JS.pdf")
+[Current CV]("/assets/CV_JS.pdf")
