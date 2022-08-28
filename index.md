@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-Welcome to my website. ![Jörg Stolz](assets/js.jpg)
+Welcome to my website. ![Jörg Stolz](assets/Picture 2.jpg)
 
 I am a sociologist working on religion, culture, ethnicity, and social games. 
 
