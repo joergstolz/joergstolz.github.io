@@ -3,12 +3,12 @@ title: "Research"
 layout: page
 ---
 
-Secularization
+### Secularization
 
-Congregations
+### Congregations
 
-Ethnicity
+### Ethnicity
 
-Social Games
+### Social Games
 
-Mixed Methods
+### Mixed Methods
