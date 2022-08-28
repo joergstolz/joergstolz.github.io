@@ -12,8 +12,7 @@ I am also currently the director of the institute of the social sciences of reli
 I am a fan of R as well as of improvisational jazz & theatre.
 
 			
-![Jörg Stolz](assets/Picture_3.jpg)
-<img src="drawing.jpg" alt="drawing" style="width:200px;"/>
+<img src="assets/Picture_3.jpg" alt="drawing" style="width:200px;"/>
 
 
 
