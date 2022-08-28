@@ -16,3 +16,5 @@ Review, the British Journal of Sociology, or the Journal for the Scientific Stud
 Religion. He is the first author of « (Un)Believing in Modern Society. Religion, 
 Spirituality, and Religious-Secular Competition. » (Routledge) and has co-edited 
 the book « Congregations in Europe » (Springer, with Christophe Monnot). 
+
+[Current CV]("CV_JS.pdf")
