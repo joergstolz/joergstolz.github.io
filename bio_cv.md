@@ -18,4 +18,5 @@ Spirituality, and Religious-Secular Competition. » (Routledge) and has co-edite
 the book « Congregations in Europe » (Springer, with Christophe Monnot). 
 
 
+
 [Current CV]("assets/CV_JS.pdf")
