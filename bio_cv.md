@@ -21,4 +21,4 @@ the book « Congregations in Europe » (Springer, with Christophe Monnot).
 
 [Current CV][my_cv]
 
-[my_cv]: https://github.com/joergstolz/joergstolz.github.io/edit/master/bio_cv.md)
+[my_cv]: (https://github.com/joergstolz/joergstolz.github.io/edit/master/bio_cv.md)](https://github.com/joergstolz/joergstolz.github.io/blob/master/assets/CV_JS.pdf)
