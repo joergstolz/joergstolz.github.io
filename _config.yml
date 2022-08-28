@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  - {file: "publications.md", title: "Publications" }
  - {file: "research_areas.md", title: "Research Areas"}
  - {file: "teaching.md", title: "Teaching"}
+ - {file: "media.md", title: "Media"}
  - {file: "contact.md", title: "Contact"}
  
 
