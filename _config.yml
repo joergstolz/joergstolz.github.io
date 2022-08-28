@@ -16,9 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
- - {file: "/joergcv.pdf", title: "CV" }
- - {file: "research.md", title: "Research"}
- - {file: "blog.md", title: "Blog"}
+ - {file: "bio_cv", title: "Bio & C.V." }
+ - {file: "publications.md, title: "Publications" }
+ - {file: "research_areas.md", title: "Research Areas"}
+ - {file: "teaching.md", title: "Teaching"}
+ - {file: "contact.md", title: "Contact"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
