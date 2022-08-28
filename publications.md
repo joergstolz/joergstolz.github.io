@@ -3,9 +3,6 @@ layout: page
 title: "Publications"
 ---
 
-Jörg Stolz
-
-Publications
 
 
 Articles (Peer-Reviewed Journals)
