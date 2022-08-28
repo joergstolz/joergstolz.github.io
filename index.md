@@ -1,9 +1,6 @@
 
 
----
-layout: page
-title: ""
----
+
 
 
 <html>
@@ -12,7 +9,7 @@ title: ""
 		<style type="text/css">
 			.container
 			{
-				width: 100%;
+				width: 80%;
 			}
 			
 			.container > div
