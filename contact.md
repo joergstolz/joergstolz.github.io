@@ -9,4 +9,4 @@ Anthropole
 University of Lausanne
 1015 Lausanne
 
-Email : joerg.stolz<at>unil.ch
+Email : joerg.stolz_at_unil.ch
