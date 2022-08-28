@@ -17,4 +17,5 @@ Religion. He is the first author of « (Un)Believing in Modern Society. Religion
 Spirituality, and Religious-Secular Competition. » (Routledge) and has co-edited 
 the book « Congregations in Europe » (Springer, with Christophe Monnot). 
 
+
 [Current CV]("assets/CV_JS.pdf")
