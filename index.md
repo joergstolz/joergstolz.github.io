@@ -15,7 +15,7 @@
 			.container > div
 			{
 				width: 48%;
-				margin: 5px;
+				margin: 20px;
 				display: inline-block;
 				vertical-align:top
 			}
