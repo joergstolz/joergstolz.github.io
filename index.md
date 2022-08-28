@@ -9,7 +9,7 @@
 		<style type="text/css">
 			.container
 			{
-				width: 80%;
+				width: 70%;
 			}
 			
 			.container > div
