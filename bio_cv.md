@@ -19,4 +19,6 @@ the book « Congregations in Europe » (Springer, with Christophe Monnot).
 
 
 
-[Current CV]("/assets/CV_JS.pdf")
+[Current CV][my_cv]
+
+[my_cv]: https://github.com/joergstolz/joergstolz.github.io/edit/master/bio_cv.md)
