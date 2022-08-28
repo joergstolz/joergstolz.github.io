@@ -5,7 +5,7 @@ title: "Publications"
 
 
 
-Articles (Peer-Reviewed Journals)
+### Articles (Peer-Reviewed Journals)
 
 2021	Stolz, J. and Senn, J. 2021. 'Des générations à la foi décroissante: religion et sécularisation en Suisse 1930-2020'. Social Change in Switzerland 27: 1-14.
 
@@ -77,7 +77,7 @@ Articles (Peer-Reviewed Journals)
 1999	Stolz, Jörg. Evangelikalismus Als Milieu.Schweizerische Zeitschrift für Soziologie 25(1):89-119.
 
 
-Articles in preparation (Peer-Reviewed Journals)
+### Articles in preparation (Peer-Reviewed Journals)
 
 2022	Senn, Jeremy, Stolz, Jörg, Monnot, Christophe, Diversity dynamics. How local religious groups appear, persist, or disappear over time (in preparation)
 
@@ -91,7 +91,7 @@ Articles in preparation (Peer-Reviewed Journals)
 2022	Stolz, Jörg, Social Games. Outline of a general theory of the social sciences  (submitted)
 
 
-Books
+### Books
 
 
 2022	Stolz Jörg, Bünker Arndt, Liedhegener Antonius et al. Religionstrends in der Schweiz. Religion, Spiritualität und Säkularität im Wandel. Springer
@@ -124,7 +124,7 @@ French translation: 2009, Baumann, Martin and Jörg Stolz. La nouvelle Suisse re
 2007	Stolz, Jörg (Ed). Salvation Goods and Religious Markets. Theory and Applications. Bern, New York: Peter Lang.
 2007	Durisch Gauthier, Nicole, Jörg Stolz and Ilario Rossi. 2007. Entre soins médicaux et guérison spirituelle. Genève: Labor et Fides.
 
-Chapters in Books
+### Chapters in Books
 
 2019    Stolz, Jörg., & Tanner, Pascal. Elemente einer Theorie religiös-säkularer Konkurrenz. In U. Schumacher (Ed.), Abbrüche - Umbrüche - Aufbrüche. Gesellschaftlicher Wandel als Herausforderung für Glaube und Kirche (pp. 57-78). Münster: Aschendorff.
 
@@ -213,7 +213,7 @@ French version, reprint: 2019 Stolz, Jörg and Christophe Monnot. Églises étab
 1995	Stolz, Jörg. Wie rekrutiert sich der Evangelikalismus? Pp. 132-55 in Fundamentalistische Jugendkultur, edited by B. e. a. Dressler. Loccum: RPI.
 
 
-Articles in Encyclopedias
+### Articles in Encyclopedias
 
 2019	Stolz, Jörg and Pascal Tanner. Secularization, Secularity, and Secularism in the New Millenium: Macrotheories and Research. Oxford Research Encyclopedia of Politics, 1-19. doi:DOI: 10.1093/acrefore/9780190228637.013.792
 
@@ -224,7 +224,7 @@ Articles in Encyclopedias
 1999	Stolz, Jörg. Einstellungen, religionswissenschaftlich. Pp. 1177-78 in Religion in Geschichte und Gegenwart, edited by H. D. e. a. Betz. Tübingen: Mohr-Siebeck.
 
 
-Reports
+### Reports
 
 2011	Stolz, Jörg, Judith Könemann, Mallory Schneuwly Purdie and Thomas Englberger. Religiosität in der modernen Welt. Bedingungen, Konstruktionen und sozialer Wandel. Schlussbericht. Collectivités religieuses, Etat et société. Programme national de recherche PNR 58.
 
