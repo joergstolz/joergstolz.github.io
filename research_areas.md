@@ -4,20 +4,28 @@ layout: page
 ---
 
 ### Secularization
-Together with Pascal Tanner, I argue that one of the main causes of secularization is religious-secular competition.
+Together with Pascal Tanner, I argue that one of the main causes of secularization is religious-secular competition. Secularization happens because the offer of secular goods is increased, crowding out the religious offer both because of functional superiority and time constraints.
 
 [Stolz, J. and Tanner, P. 2017. 'Elements of a Theory of Religious-Secular Competition'. Política & Sociedade 36.](xxxx)
 
-I have written overview articles on the state of secularization research: 
+Here's a recent overview articles on the state of secularization research: 
 
 [Stolz, Jörg. 2020. Secularization theories in the 21st century: Ideas, evidence, problems. Presidential Address. Social Compass, 67(2), 282-308.](xxx)
 
-An application of the religious-secular competition framework can be found in:
+Not everybody agreed and an interesting discussion resulted with François Gauthier, Tobias Müller, Sarah Wilkins-Laflamme, and David Voas:
 
+
+
+An application of the religious-secular competition framework can be found in:
+[Stolz, J., Könemann, J., Schneuwly Purdie, M., Englberger, T. and Krüggeler, M. 2016. (Un)Believing in modern society. Religion, spirituality, and religious-secular competition. London: Routledge.](xxxx)
+
+
+And these are recent results, from work with Jeremy Senn: 
+[Stolz, J. and Senn, J. 2021. 'Generations of declining faith: Religion and secularization in Switzerland 1930-2020'. Social Change in Switzerland November.](xxx)
 
 
 ### Congregations
-Inspired by the work of Mark Chaves, I have conduct National Congregation studies in Switzerland. 
+Inspired by the work of Mark Chaves, I have conducted a National Congregation studies in Switzerland together with Christophe Monnot. Currently, the second wave is underway.
 
 [Stolz, J., Chaves, M., Monnot, C. and Amiotte-Suchet, L. 2011. 'Die religiösen Gemeinschaften in der Schweiz: Eigenschaften, Aktivitäten, Entwicklung'. Schlussbericht. Collectivités religieuses, Etat et société. Programme national de recherche PNR 58.](xxx)
 
