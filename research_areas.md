@@ -24,7 +24,7 @@ I have worked with Detlef Pollack and Nan Dirk de Graaf on secular transition in
 
 [Stolz, J., Pollack, D. and De Graaf , N.D. 2020. 'Can the State accelerate the Secular Transitition? Secularization in East- and West Germany as a Natural Experiment'. European Sociological Review 36: 626-642.](assets/CanTheState.pdf)
 
-and on the case of [France](assets/France.pdf) with Ferruccio Biolcati and Francesco Molteni: 
+and on the case of [2021_France.pdf](assets/France.pdf) with Ferruccio Biolcati and Francesco Molteni: 
 
 
 
