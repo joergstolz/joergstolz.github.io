@@ -15,9 +15,9 @@ My MA courses on mixed methods take place at UNIL, but I also regularly give a 2
 Together with Anaïd Lindemann, I have written three articles showing how to 
 use the Titanic datasets for the teaching of mixed methods: 
 
-Lindemann, A. and Stolz, J. 2021. 'Using the Titanic datasets to teach Mixed Methods Data Analysis'. Methodology 17: 231-249.
+[Lindemann, A. and Stolz, J. 2021. 'Using the Titanic datasets to teach Mixed Methods Data Analysis'. Methodology 17: 231-249.](2021_TeachTitanic)
 
-Stolz, J. and Lindemann, A. 2019. 'The Titanic Game : Introducing game heuristics to mixed methods research'. Journal of Mixed Methods Research: 1-23.
+[Stolz, J. and Lindemann, A. 2019. 'The Titanic Game : Introducing game heuristics to mixed methods research'. Journal of Mixed Methods Research: 1-23.](2020_TitanicGame.pdf)
 
 [Stolz, J., Lindemann, A. and Antonietti, J.-P. 2018. 'Sociological Explanation and mixed methods: the example of the Titanic'. Quality and Quantity 53: 1623-1643.](assets/TitanicExplain.pdf)
 
