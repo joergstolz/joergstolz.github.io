@@ -3,7 +3,15 @@ layout: page
 title: "Teaching"
 ---
 
-### Mixed Methods
+### Sociology of religion
+My BA courses on the sociology of religion give an overview of the discipline from an analytical point of view. A textbook is 
+in planning.
+
+### MA course Mixed Methods
+My MA courses on mixed methods take place at UNIL, but I also regularly give a 2-day course on the subject at GESIS, Mannheim.
+
+
+### Mixed Methods and the Titanic Datasets
 Together with Anaïd Lindemann, I have written three articles showing how to 
 use the Titanic datasets for the teaching of mixed methods: 
 
