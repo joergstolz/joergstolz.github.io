@@ -18,19 +18,25 @@ An application of the religious-secular competition framework can be found in:
 
 ### Congregations
 Inspired by the work of Mark Chaves, I have conduct National Congregation studies in Switzerland. 
-Stolz, J., Chaves, M., Monnot, C. and Amiotte-Suchet, L. 2011. 'Die religiösen Gemeinschaften in der Schweiz: Eigenschaften, Aktivitäten, Entwicklung'. Schlussbericht. Collectivités religieuses, Etat et société. Programme national de recherche PNR 58.
-Monnot, C. and Stolz, J. 2018. 'How Do You Recognize a "Congregation"? Definition and Operationalization Strategies of the Swiss Congregation Census' in Monnot, C. and Stolz, J. (eds.) Congregations in Europe: Springer.
-Monnot, C. and Stolz, J. 2018. 'Congregations in Europe' Congregations in Europe. Cham: Springer.
-Stolz, J. and Monnot, C. 2019. 'Does establishment suppress congregations' political activities? Evidence from Switzerland'. Religion and Politics  (published online) 13: 28-56.
-Stolz, J. and Chaves, M. 2017. 'Does Disestablishment Lead to Religious Vitality? The Case of Switzerland'. British Journal of Sociology 2: 412-435.
-Stolz, J. and Monnot, C. 2016. 'Female Leadership in Different Religions: Norms, Power, and Money'. Journal of Contemporary Religion 34: 353-373.
-Stolz, J. and Monnot, C. 2018. 'The Established and the Newcomers. A Weberian-Bourdieusian View of Congregations in the Swiss Religious Field' in Monnot, C. and Stolz, J. (eds.) Congregations in Europe. Wiesbaden: Springer.
+[Stolz, J., Chaves, M., Monnot, C. and Amiotte-Suchet, L. 2011. 'Die religiösen Gemeinschaften in der Schweiz: Eigenschaften, Aktivitäten, Entwicklung'. Schlussbericht. Collectivités religieuses, Etat et société. Programme national de recherche PNR 58.](xxx)
+[Monnot, C. and Stolz, J. 2018. 'How Do You Recognize a "Congregation"? Definition and Operationalization Strategies of the Swiss Congregation Census' in Monnot, C. and Stolz, J. (eds.) Congregations in Europe: Springer.](xxx)
+[Monnot, C. and Stolz, J. 2018. 'Congregations in Europe' Congregations in Europe. Cham: Springer.](xxx)
+[Stolz, J. and Monnot, C. 2019. 'Does establishment suppress congregations' political activities? Evidence from Switzerland'. Religion and Politics  (published online) 13: 28-56.](xxx)
+[Stolz, J. and Chaves, M. 2017. 'Does Disestablishment Lead to Religious Vitality? The Case of Switzerland'. British Journal of Sociology 2: 412-435.](xxx)
+[Stolz, J. and Monnot, C. 2016. 'Female Leadership in Different Religions: Norms, Power, and Money'. Journal of Contemporary Religion 34: 353-373.](xxx)
+[Stolz, J. and Monnot, C. 2018. 'The Established and the Newcomers. A Weberian-Bourdieusian View of Congregations in the Swiss Religious Field' in Monnot, C. and Stolz, J. (eds.) Congregations in Europe. Wiesbaden: Springer.](xxx)
 
 
 
 
 ### Ethnicity
 Together with Anaïd Lindemann, I have conducted work on islamophobia: 
+[Stolz, J. 2006. 'Explaining islamophobia. A test of four Theories Based on the Case of a Swiss City'. Schweizerische Zeitschrift für Soziologie 31: 547-566.]
+[Lindemann, A. and Stolz, J. 2014. 'Use of Islam in the Definition of Foreign Otherness in Switzerland: A Comparative Analysis of Media Discourses Between 1970-2004'. Islamophobia Studies Journal 2: 44-58.]
+[Lindemann, A. and Stolz, J. 2018. 'The Muslim Unemployment Gap in Switzerland. The Importance of Ethno-Religious Penalties'. Social Inclusion 6: 2.]
+[Lindemann, A. and Stolz, J. 2020. 'Perceived discrimination among Muslims and its correlates. A comparative analysis'. Ethnic and Racial Studies 44: 173-194.]
+
+
 
 
 
