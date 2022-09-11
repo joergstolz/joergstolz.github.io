@@ -6,9 +6,9 @@ layout: page
 ### Secularization
 Secularization research is one of my main fields of interest. I argue that one of the main causes of secularization is religious-secular competition. Secularization happens because the offer of secular goods is increased, crowding out the religious offer both because of functional superiority and time constraints.
 
-[Stolz, J. 2009. 'Explaining Religiosity: Towards a Unified Theoretical Model'. British Journal of Sociology 60: 345-376.](2009_ExplainingReligiosity.pdf)
+[Stolz, J. 2009. 'Explaining Religiosity: Towards a Unified Theoretical Model'. British Journal of Sociology 60: 345-376.](assets/2009_ExplainingReligiosity.pdf)
 
-[Stolz, J. and Tanner, P. 2017. 'Elements of a Theory of Religious-Secular Competition'. Política & Sociedade 36.](2017_ElementsCompetition.pdf)
+[Stolz, J. and Tanner, P. 2017. 'Elements of a Theory of Religious-Secular Competition'. Política & Sociedade 36.](assets/2017_ElementsCompetition.pdf)
 
 Here's a recent overview articles on the state of secularization research: 
 
