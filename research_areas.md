@@ -33,7 +33,7 @@ An application of the religious-secular competition framework can be found in:
 
 And these are recent results, from work with Jeremy Senn: 
 
-[Stolz, J. and Senn, J. 2021. 'Generations of declining faith: Religion and secularization in Switzerland 1930-2020'. Social Change in Switzerland November.](xxx)
+[Stolz, J. and Senn, J. 2021. 'Generations of declining faith: Religion and secularization in Switzerland 1930-2020'. Social Change in Switzerland November.](assets/generations.pdf)
 
 
 ### Congregations
