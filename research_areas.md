@@ -4,7 +4,9 @@ layout: page
 ---
 
 ### Secularization
-Together with Pascal Tanner, I argue that one of the main causes of secularization is religious-secular competition. Secularization happens because the offer of secular goods is increased, crowding out the religious offer both because of functional superiority and time constraints.
+Secularization research is one of my main fields of interest. I argue that one of the main causes of secularization is religious-secular competition. Secularization happens because the offer of secular goods is increased, crowding out the religious offer both because of functional superiority and time constraints.
+
+[Stolz, J. 2009. 'Explaining Religiosity: Towards a Unified Theoretical Model'. British Journal of Sociology 60: 345-376.](2009_ExplainingReligiosity.pdf)
 
 [Stolz, J. and Tanner, P. 2017. 'Elements of a Theory of Religious-Secular Competition'. Política & Sociedade 36.](xxxx)
 
@@ -23,15 +25,21 @@ Not everybody agreed and an interesting discussion resulted with François Gauth
 [Voas, D. 2020. 'Is the secularization research programme progressing? Debate on Jörg Stolz’s article on Secularization theories in the 21st century: ideas, evidence, and problems'. Social Compass 67: 323-329.](xxxx)
 
 
-
-
-
 An application of the religious-secular competition framework can be found in:
 
 [Stolz, J., Könemann, J., Schneuwly Purdie, M., Englberger, T. and Krüggeler, M. 2016. (Un)Believing in modern society. Religion, spirituality, and religious-secular competition. London: Routledge.](xxxx)
 
+I have worked with Detlef Pollack and Nan Dirk de Graaf on secular transition in West and East Germany: 
 
-And these are recent results, from work with Jeremy Senn: 
+[Stolz, J., Pollack, D. and De Graaf , N.D. 2020. 'Can the State accelerate the Secular Transitition? Secularization in East- and West Germany as a Natural Experiment'. European Sociological Review 36: 626-642.](CanTheState.pdf)
+
+
+and on the case of France with Ferruccio Biolcati and Francesco Molteni: 
+
+[Stolz, J., Biolcati-Rinaldi, F. and Molteni, F. 2021. 'Is France exceptionally irreligious? A comparative test of the cohort replacement theory '. L’Année sociologique: 337-367.](France.pdf)
+
+
+And these are recent results on Switzerland, from work with Jeremy Senn: 
 
 [Stolz, J. and Senn, J. 2021. 'Generations of declining faith: Religion and secularization in Switzerland 1930-2020'. Social Change in Switzerland November.](assets/generations.pdf)
 
