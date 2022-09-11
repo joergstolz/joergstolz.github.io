@@ -102,17 +102,23 @@ I have always been fascinated by evangelicals, pentecostals and fundamentalists.
 I believe that the combination of qualitative and quantitative methods has much to offer. My methodological views on mixed methods can be found in these publications:
 
 
-Together with various colleagues, I have also conducted three large scale mixed methods studies on religion in Switzerland. The main publications are: 
+Together with various colleagues, I have  conducted three large scale mixed methods studies on religion in Switzerland. The main publications are: 
 
 On religiosity in Switzerland: 
 
+[Stolz, J., Könemann, J., Schneuwly Purdie, M., Englberger, T. and Krüggeler, M. 2016. (Un)Believing in modern society. Religion, spirituality, and religious-secular competition. London: Routledge.](xxxx)
+
 On Evangelicals in Switzerland: 
+
 [Stolz, J., Favre, O., Gachet, C. and Buchard, E. 2012. 'Le phénomène évangélique. A l'intérieur d'un milieu compétitif'. Genève: Labor et Fides.](xxx)
 
 [Stolz, J., Favre, O., Gachet, C. and Buchard, E. 2014. Phänomen Freikirchen. Analysen eines wettbewerbsstarken Milieus. Zürich: TVZ.](xxx)
 
 
 On secularists in Switzerland: 
+
+[Tanner, P. 2020. Das Freidenkertum in der Schweiz. Säkularismus in Zeiten der Säkularisierung. Thèse de doctorat. Lausanne: Université d Lausanne.](xxx)
+
 
 
 
