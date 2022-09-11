@@ -38,6 +38,7 @@ Inspired by the work of Mark Chaves, I have conduct National Congregation studie
 
 ### Ethnicity
 Together with Anaïd Lindemann, I have conducted work on islamophobia: 
+
 [Stolz, J. 2006. 'Explaining islamophobia. A test of four Theories Based on the Case of a Swiss City'. Schweizerische Zeitschrift für Soziologie 31: 547-566.](xxx)
 
 [Lindemann, A. and Stolz, J. 2014. 'Use of Islam in the Definition of Foreign Otherness in Switzerland: A Comparative Analysis of Media Discourses Between 1970-2004'. Islamophobia Studies Journal 2: 44-58.](xxx)
@@ -75,6 +76,7 @@ Being a student of Raymond Boudon, I have always been interested in explanatory 
 
 ### Evangelicals, Pentecostals, Fundamentalists
 I have always been fascinated by evangelicals, pentecostals and fundamentalists. Some of my work can be found here: 
+
 [Stolz, J. and Favre, O. 2005. 'The evangelical milieu. Defining criteria and reproduction across the generations'. Social Compass 52: 169-183.](xxx)
 
 [Stolz, Jörg and Olivier Favre. 2019. Evangelicals, Pentecostals, Fundamentalists. Describing and Explaining Growth and Decline in Switzerland 1970-2013. Journal for the scientific study of religion, 58(3):604-25.](xxx)
