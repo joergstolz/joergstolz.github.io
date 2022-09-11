@@ -25,7 +25,7 @@ And these are recent results, from work with Jeremy Senn:
 
 
 ### Congregations
-Inspired by the work of Mark Chaves, I have conducted a National Congregation studies in Switzerland together with Christophe Monnot. Currently, the second wave is underway.
+Inspired by the work of Mark Chaves, I have conducted a National Congregation studies in Switzerland together with Christophe Monnot. Currently, the [second wave](https://wp.unil.ch/ncs2/) is underway.
 
 [Stolz, J., Chaves, M., Monnot, C. and Amiotte-Suchet, L. 2011. 'Die religiösen Gemeinschaften in der Schweiz: Eigenschaften, Aktivitäten, Entwicklung'. Schlussbericht. Collectivités religieuses, Etat et société. Programme national de recherche PNR 58.](xxx)
 
