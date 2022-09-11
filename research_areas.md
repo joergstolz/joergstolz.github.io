@@ -12,15 +12,15 @@ Here's a recent overview articles on the state of secularization research:
 
 [Stolz, Jörg. 2020. Secularization theories in the 21st century: Ideas, evidence, problems. Presidential Address. Social Compass, 67(2), 282-308.](xxx)
 
-Not everybody agreed and an interesting discussion resulted with François Gauthier, Tobias Müller, Sarah Wilkins-Laflamme, and David Voas:
-
-
+Not everybody agreed and an interesting discussion resulted with François Gauthier, Tobias Müller, Sarah Wilkins-Laflamme, and David Voas. 
 
 An application of the religious-secular competition framework can be found in:
+
 [Stolz, J., Könemann, J., Schneuwly Purdie, M., Englberger, T. and Krüggeler, M. 2016. (Un)Believing in modern society. Religion, spirituality, and religious-secular competition. London: Routledge.](xxxx)
 
 
 And these are recent results, from work with Jeremy Senn: 
+
 [Stolz, J. and Senn, J. 2021. 'Generations of declining faith: Religion and secularization in Switzerland 1930-2020'. Social Change in Switzerland November.](xxx)
 
 
