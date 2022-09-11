@@ -8,8 +8,8 @@ Together with Pascal Tanner, I argue that one of the main causes of secularizati
 
 [Stolz, J. and Tanner, P. 2017. 'Elements of a Theory of Religious-Secular Competition'. Política & Sociedade 36.](xxxx)
 
-
 I have written overview articles on the state of secularization research: 
+
 [Stolz, Jörg. 2020. Secularization theories in the 21st century: Ideas, evidence, problems. Presidential Address. Social Compass, 67(2), 282-308.](xxx)
 
 An application of the religious-secular competition framework can be found in:
@@ -18,6 +18,15 @@ An application of the religious-secular competition framework can be found in:
 
 ### Congregations
 Inspired by the work of Mark Chaves, I have conduct National Congregation studies in Switzerland. 
+Stolz, J., Chaves, M., Monnot, C. and Amiotte-Suchet, L. 2011. 'Die religiösen Gemeinschaften in der Schweiz: Eigenschaften, Aktivitäten, Entwicklung'. Schlussbericht. Collectivités religieuses, Etat et société. Programme national de recherche PNR 58.
+Monnot, C. and Stolz, J. 2018. 'How Do You Recognize a "Congregation"? Definition and Operationalization Strategies of the Swiss Congregation Census' in Monnot, C. and Stolz, J. (eds.) Congregations in Europe: Springer.
+Monnot, C. and Stolz, J. 2018. 'Congregations in Europe' Congregations in Europe. Cham: Springer.
+Stolz, J. and Monnot, C. 2019. 'Does establishment suppress congregations' political activities? Evidence from Switzerland'. Religion and Politics  (published online) 13: 28-56.
+Stolz, J. and Chaves, M. 2017. 'Does Disestablishment Lead to Religious Vitality? The Case of Switzerland'. British Journal of Sociology 2: 412-435.
+Stolz, J. and Monnot, C. 2016. 'Female Leadership in Different Religions: Norms, Power, and Money'. Journal of Contemporary Religion 34: 353-373.
+Stolz, J. and Monnot, C. 2018. 'The Established and the Newcomers. A Weberian-Bourdieusian View of Congregations in the Swiss Religious Field' in Monnot, C. and Stolz, J. (eds.) Congregations in Europe. Wiesbaden: Springer.
+
+
 
 
 ### Ethnicity
@@ -27,6 +36,9 @@ Together with Anaïd Lindemann, I have conducted work on islamophobia:
 
 ### Social Games
 One of my theoretical ideas, probably inspired by my teacher Niklas Luhmann, is that the concept of the "social game" may be used to construct a general theory of the social world. For now, the following publications are available:
+Stolz, J. 2016. 'The Theory of Social Games as a Metatheory for Mixed Methods (in preparation)'.
+
+Stolz, J. and Lindemann, A. 2019. 'The Titanic Game : Introducing game heuristics to mixed methods research'. Journal of Mixed Methods Research: 1-23.
 
 
 
