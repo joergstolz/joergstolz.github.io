@@ -4,34 +4,27 @@ layout: page
 ---
 
 ### Secularization
-Secularization research is one of my main fields of interest. I argue that one of the main causes of secularization is religious-secular competition. Secularization happens because the offer of secular goods is increased, crowding out the religious offer both because of functional superiority and time constraints.
+Secularization research is one of my main fields of interest. I argue that one of the main causes of secularization is religious-secular competition, engaging religion in a "silent battle". Secularization happens because the offer of secular goods is increased, crowding out the religious offer both because of functional superiority and time constraints. The main publications, both theoretical and applied, are: 
+
+[Stolz, J. 2009. 'A Silent Battle. Theorizing the Effects of Competition between Churches and Secular Institutions'. Review of Religious Research 51: 253-276.](assets/2013_SilentBattle.pdf)
 
 [Stolz, J. 2009. 'Explaining Religiosity: Towards a Unified Theoretical Model'. British Journal of Sociology 60: 345-376.](assets/2009_ExplainingReligiosity.pdf)
 
+[Stolz, J., Könemann, J., Schneuwly Purdie, M., Englberger, T. and Krüggeler, M. 2016. (Un)Believing in modern society. Religion, spirituality, and religious-secular competition. London: Routledge.](assets/2016_Un_Believing_in_modern_society._Religio.pdf)
+
 [Stolz, J. and Tanner, P. 2017. 'Elements of a Theory of Religious-Secular Competition'. Política & Sociedade 36.](assets/2017_ElementsCompetition.pdf)
 
-Here's a recent overview articles on the state of secularization research: 
+Here's a recent overview articles on the state of secularization research that has appeared in Social Compass: 
 
 [Stolz, Jörg. 2020. Secularization theories in the 21st century: Ideas, evidence, problems. Presidential Address. Social Compass, 67(2), 282-308.](assets/2020_Secularization.pdf)
 
 Not everybody agreed and an interesting discussion resulted with [François Gauthier](https://journals.sagepub.com/doi/abs/10.1177/0037768620917327?journalCode=scpa), [Tobias Müller](https://journals.sagepub.com/doi/full/10.1177/0037768620917328), [Sarah Wilkins-Laflamme](xxx), and [David Voas](xxx):
 
-An application of the religious-secular competition framework can be found in:
-
-[Stolz, J., Könemann, J., Schneuwly Purdie, M., Englberger, T. and Krüggeler, M. 2016. (Un)Believing in modern society. Religion, spirituality, and religious-secular competition. London: Routledge.](assets/2016_Un_Believing_in_modern_society._Religio.pdf)
-
 I have worked with Detlef Pollack and Nan Dirk de Graaf on secular transition in West and East Germany: 
 
 [Stolz, J., Pollack, D. and De Graaf , N.D. 2020. 'Can the State accelerate the Secular Transitition? Secularization in East- and West Germany as a Natural Experiment'. European Sociological Review 36: 626-642.](assets/CanTheState.pdf)
 
-and on the case of [2021_France.pdf](assets/France.pdf) with Ferruccio Biolcati and Francesco Molteni: 
-
-
-
-
-And these are recent results on Switzerland, from work with Jeremy Senn: 
-
-[Stolz, J. and Senn, J. 2021. 'Generations of declining faith: Religion and secularization in Switzerland 1930-2020'. Social Change in Switzerland November.](assets/generations.pdf)
+and on the case of [2021_France.pdf](assets/France.pdf) with Ferruccio Biolcati and Francesco Molteni. And these are recent results on [Switzerland](assets/generations.pdf), from work with Jeremy Senn.
 
 
 ### Congregations
