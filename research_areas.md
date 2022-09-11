@@ -12,19 +12,19 @@ Secularization research is one of my main fields of interest. I argue that one o
 
 Here's a recent overview articles on the state of secularization research: 
 
-[Stolz, Jörg. 2020. Secularization theories in the 21st century: Ideas, evidence, problems. Presidential Address. Social Compass, 67(2), 282-308.](2020_Secularization.pdf)
+[Stolz, Jörg. 2020. Secularization theories in the 21st century: Ideas, evidence, problems. Presidential Address. Social Compass, 67(2), 282-308.](assets/2020_Secularization.pdf)
 
 Not everybody agreed and an interesting discussion resulted with François [Gauthier](https://journals.sagepub.com/doi/abs/10.1177/0037768620917327?journalCode=scpa), [Tobias Müller](https://journals.sagepub.com/doi/full/10.1177/0037768620917328), [Sarah Wilkins-Laflamme], and [David Voas]:
 
 An application of the religious-secular competition framework can be found in:
 
-[Stolz, J., Könemann, J., Schneuwly Purdie, M., Englberger, T. and Krüggeler, M. 2016. (Un)Believing in modern society. Religion, spirituality, and religious-secular competition. London: Routledge.](2016_Un_Believing_in_modern_society._Religio.pdf)
+[Stolz, J., Könemann, J., Schneuwly Purdie, M., Englberger, T. and Krüggeler, M. 2016. (Un)Believing in modern society. Religion, spirituality, and religious-secular competition. London: Routledge.](assets/2016_Un_Believing_in_modern_society._Religio.pdf)
 
 I have worked with Detlef Pollack and Nan Dirk de Graaf on secular transition in West and East Germany: 
 
-[Stolz, J., Pollack, D. and De Graaf , N.D. 2020. 'Can the State accelerate the Secular Transitition? Secularization in East- and West Germany as a Natural Experiment'. European Sociological Review 36: 626-642.](CanTheState.pdf)
+[Stolz, J., Pollack, D. and De Graaf , N.D. 2020. 'Can the State accelerate the Secular Transitition? Secularization in East- and West Germany as a Natural Experiment'. European Sociological Review 36: 626-642.](assets/CanTheState.pdf)
 
-and on the case of [France] (France.pdf) with Ferruccio Biolcati and Francesco Molteni: 
+and on the case of [France] (assets/France.pdf) with Ferruccio Biolcati and Francesco Molteni: 
 
 
 
