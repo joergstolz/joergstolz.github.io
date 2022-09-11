@@ -11,7 +11,7 @@ Currently, I am the director of the institute of the social sciences of religion
 
 I am a fan of R as well as of jazz & improvisational theatre.
 
-The goal of this website is to give an easy access to my work (often in collaboration with colleagues) and to permit downloading texts, material, and code.
+The goal of this website (currently under construction) is to give an easy access to my work (often in collaboration with colleagues) and to permit downloading texts, material, and code.
 
 			
 <img src="assets/Picture_3.jpg" alt="drawing" style="width:300px;"/>
