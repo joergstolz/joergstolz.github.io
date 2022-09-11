@@ -12,7 +12,19 @@ Here's a recent overview articles on the state of secularization research:
 
 [Stolz, Jörg. 2020. Secularization theories in the 21st century: Ideas, evidence, problems. Presidential Address. Social Compass, 67(2), 282-308.](xxx)
 
-Not everybody agreed and an interesting discussion resulted with François Gauthier, Tobias Müller, Sarah Wilkins-Laflamme, and David Voas. 
+Not everybody agreed and an interesting discussion resulted with François Gauthier, Tobias Müller, Sarah Wilkins-Laflamme, and David Voas:
+
+[Gauthier, F. 2020. '(What is left of) secularization? Debate on Jörg Stolz’s article on Secularization theories in the 21st century: ideas, evidence, and problems'. Social Compass 67: 309-314.](https://journals.sagepub.com/doi/abs/10.1177/0037768620917327?journalCode=scpa)
+
+[Müller, T. 2020. 'Secularization theory and its discontents: Recapturing decolonial and gendered narratives. Debate on Jörg Stolz’s article on Secularization theories in the 21st entury: ideas, evidence, and problems'. Social Compass 67: 315-322.](https://journals.sagepub.com/doi/full/10.1177/0037768620917328)
+
+[Wilkins-Laflamme, S. 2020. 'Exploring further debates in the secularization paradigm. Debate on Jörg Stolz’s article on Secularization theories in the 21st century: ideas, evidence, and problems'. Social Compass 67: 330-336.](xxx)
+
+[Voas, D. 2020. 'Is the secularization research programme progressing? Debate on Jörg Stolz’s article on Secularization theories in the 21st century: ideas, evidence, and problems'. Social Compass 67: 323-329.](xxxx)
+
+
+
+
 
 An application of the religious-secular competition framework can be found in:
 
