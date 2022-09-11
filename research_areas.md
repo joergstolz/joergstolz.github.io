@@ -8,11 +8,11 @@ Secularization research is one of my main fields of interest. I argue that one o
 
 [Stolz, J. 2009. 'Explaining Religiosity: Towards a Unified Theoretical Model'. British Journal of Sociology 60: 345-376.](2009_ExplainingReligiosity.pdf)
 
-[Stolz, J. and Tanner, P. 2017. 'Elements of a Theory of Religious-Secular Competition'. Política & Sociedade 36.](xxxx)
+[Stolz, J. and Tanner, P. 2017. 'Elements of a Theory of Religious-Secular Competition'. Política & Sociedade 36.](2017_ElementsCompetition.pdf)
 
 Here's a recent overview articles on the state of secularization research: 
 
-[Stolz, Jörg. 2020. Secularization theories in the 21st century: Ideas, evidence, problems. Presidential Address. Social Compass, 67(2), 282-308.](xxx)
+[Stolz, Jörg. 2020. Secularization theories in the 21st century: Ideas, evidence, problems. Presidential Address. Social Compass, 67(2), 282-308.](2020_Secularization.pdf)
 
 Not everybody agreed and an interesting discussion resulted with François Gauthier, Tobias Müller, Sarah Wilkins-Laflamme, and David Voas:
 
@@ -27,7 +27,7 @@ Not everybody agreed and an interesting discussion resulted with François Gauth
 
 An application of the religious-secular competition framework can be found in:
 
-[Stolz, J., Könemann, J., Schneuwly Purdie, M., Englberger, T. and Krüggeler, M. 2016. (Un)Believing in modern society. Religion, spirituality, and religious-secular competition. London: Routledge.](xxxx)
+[Stolz, J., Könemann, J., Schneuwly Purdie, M., Englberger, T. and Krüggeler, M. 2016. (Un)Believing in modern society. Religion, spirituality, and religious-secular competition. London: Routledge.](2016_Un_Believing_in_modern_society._Religio.pdf)
 
 I have worked with Detlef Pollack and Nan Dirk de Graaf on secular transition in West and East Germany: 
 
@@ -130,7 +130,7 @@ On religiosity in Switzerland:
 
 On Evangelicals in Switzerland: 
 
-[Stolz, J., Favre, O., Gachet, C. and Buchard, E. 2012. 'Le phénomène évangélique. A l'intérieur d'un milieu compétitif'. Genève: Labor et Fides.](xxx)
+[Stolz, J., Favre, O., Gachet, C. and Buchard, E. 2012. 'Le phénomène évangélique. A l'intérieur d'un milieu compétitif'. Genève: Labor et Fides.](2012_PhénomèneEvangélique.pdf)
 
 [Stolz, J., Favre, O., Gachet, C. and Buchard, E. 2014. Phänomen Freikirchen. Analysen eines wettbewerbsstarken Milieus. Zürich: TVZ.](xxx)
 
