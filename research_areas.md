@@ -14,16 +14,7 @@ Here's a recent overview articles on the state of secularization research:
 
 [Stolz, Jörg. 2020. Secularization theories in the 21st century: Ideas, evidence, problems. Presidential Address. Social Compass, 67(2), 282-308.](2020_Secularization.pdf)
 
-Not everybody agreed and an interesting discussion resulted with François Gauthier, Tobias Müller, Sarah Wilkins-Laflamme, and David Voas:
-
-[Gauthier, F. 2020. '(What is left of) secularization? Debate on Jörg Stolz’s article on Secularization theories in the 21st century: ideas, evidence, and problems'. Social Compass 67: 309-314.](https://journals.sagepub.com/doi/abs/10.1177/0037768620917327?journalCode=scpa)
-
-[Müller, T. 2020. 'Secularization theory and its discontents: Recapturing decolonial and gendered narratives. Debate on Jörg Stolz’s article on Secularization theories in the 21st entury: ideas, evidence, and problems'. Social Compass 67: 315-322.](https://journals.sagepub.com/doi/full/10.1177/0037768620917328)
-
-[Wilkins-Laflamme, S. 2020. 'Exploring further debates in the secularization paradigm. Debate on Jörg Stolz’s article on Secularization theories in the 21st century: ideas, evidence, and problems'. Social Compass 67: 330-336.](xxx)
-
-[Voas, D. 2020. 'Is the secularization research programme progressing? Debate on Jörg Stolz’s article on Secularization theories in the 21st century: ideas, evidence, and problems'. Social Compass 67: 323-329.](xxxx)
-
+Not everybody agreed and an interesting discussion resulted with François [Gauthier](https://journals.sagepub.com/doi/abs/10.1177/0037768620917327?journalCode=scpa), [Tobias Müller](https://journals.sagepub.com/doi/full/10.1177/0037768620917328), [Sarah Wilkins-Laflamme], and [David Voas]:
 
 An application of the religious-secular competition framework can be found in:
 
@@ -33,10 +24,9 @@ I have worked with Detlef Pollack and Nan Dirk de Graaf on secular transition in
 
 [Stolz, J., Pollack, D. and De Graaf , N.D. 2020. 'Can the State accelerate the Secular Transitition? Secularization in East- and West Germany as a Natural Experiment'. European Sociological Review 36: 626-642.](CanTheState.pdf)
 
+and on the case of [France] (France.pdf) with Ferruccio Biolcati and Francesco Molteni: 
 
-and on the case of France with Ferruccio Biolcati and Francesco Molteni: 
 
-[Stolz, J., Biolcati-Rinaldi, F. and Molteni, F. 2021. 'Is France exceptionally irreligious? A comparative test of the cohort replacement theory '. L’Année sociologique: 337-367.](France.pdf)
 
 
 And these are recent results on Switzerland, from work with Jeremy Senn: 
@@ -130,7 +120,7 @@ On religiosity in Switzerland:
 
 On Evangelicals in Switzerland: 
 
-[Stolz, J., Favre, O., Gachet, C. and Buchard, E. 2012. 'Le phénomène évangélique. A l'intérieur d'un milieu compétitif'. Genève: Labor et Fides.](2012_PhénomèneEvangélique.pdf)
+[Stolz, J., Favre, O., Gachet, C. and Buchard, E. 2012. 'Le phénomène évangélique. A l'intérieur d'un milieu compétitif'. Genève: Labor et Fides.](assets/2012_PhénomèneEvangélique.pdf)
 
 [Stolz, J., Favre, O., Gachet, C. and Buchard, E. 2014. Phänomen Freikirchen. Analysen eines wettbewerbsstarken Milieus. Zürich: TVZ.](xxx)
 
