@@ -12,9 +12,7 @@ Secularization research is one of my main fields of interest. I argue that one o
 
 [Stolz, J., Könemann, J., Schneuwly Purdie, M., Englberger, T. and Krüggeler, M. 2016. (Un)Believing in modern society. Religion, spirituality, and religious-secular competition. London: Routledge.](assets/2016_Un_Believing_in_modern_society._Religio.pdf)
 
-[Stolz, J. and Tanner, P. 2017. 'Elements of a Theory of Religious-Secular Competition'. Política & Sociedade 36.](assets/2017_ElementsCompetition.pdf)
-
-Here's a recent overview articles on the state of secularization research that has appeared in Social Compass: 
+Here's a recent overview article on the state of secularization research that has appeared in Social Compass: 
 
 [Stolz, Jörg. 2020. Secularization theories in the 21st century: Ideas, evidence, problems. Presidential Address. Social Compass, 67(2), 282-308.](assets/2020_Secularization.pdf)
 
