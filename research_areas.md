@@ -4,9 +4,7 @@ layout: page
 ---
 
 ### Secularization
-Secularization research is one of my main fields of interest. I argue that one of the main causes of secularization is religious-secular competition, engaging religion in a "silent battle". Secularization happens as the offer of secular goods is increased, crowding out the religious offer both because of functional superiority and time constraints. The main publications, both theoretical and applied, are: 
-
-[Stolz, J. 2009. 'A Silent Battle. Theorizing the Effects of Competition between Churches and Secular Institutions'. Review of Religious Research 51: 253-276.](assets/2013_SilentBattle.pdf)
+Secularization research is one of my main fields of interest. I argue that one of the main causes of secularization is religious-secular competition, engaging religion in a ["silent battle"](assets/2013_SilentBattle.pdf). Secularization happens as the offer of secular goods is increased, crowding out the religious offer both because of functional superiority and time constraints. See for example: 
 
 [Stolz, J. 2009. 'Explaining Religiosity: Towards a Unified Theoretical Model'. British Journal of Sociology 60: 345-376.](assets/2009_ExplainingReligiosity.pdf)
 
@@ -18,11 +16,11 @@ Here's a recent overview article on the state of secularization research that ha
 
 Not everybody agreed and an interesting discussion resulted with [François Gauthier](https://journals.sagepub.com/doi/abs/10.1177/0037768620917327?journalCode=scpa), [Tobias Müller](https://journals.sagepub.com/doi/full/10.1177/0037768620917328), [Sarah Wilkins-Laflamme](https://journals.sagepub.com/doi/abs/10.1177/0037768620917330), and [David Voas](https://journals.sagepub.com/doi/10.1177/0037768620917329):
 
-I have worked with Detlef Pollack and Nan Dirk de Graaf on secular transition in West and East Germany: 
+David Voas has suggested in excellent publications that secularization takes the form of a "secular transition". In an article on Germany with Detlef Pollack and Nan Dirk de Graaf we have shown that the state can actually accelerate this transition:
 
 [Stolz, J., Pollack, D. and De Graaf , N.D. 2020. 'Can the State accelerate the Secular Transitition? Secularization in East- and West Germany as a Natural Experiment'. European Sociological Review 36: 626-642.](assets/CanTheState.pdf)
 
-and on the case of [France](assets/France.pdf) with Ferruccio Biolcati and Francesco Molteni. And these are recent results on [Switzerland](assets/generations.pdf), from work with Jeremy Senn.
+In other publications, we have looked at the secular transition in  [France](assets/France.pdf) with Ferruccio Biolcati and Francesco Molteni. Recent results on Switzerland, from work with Jeremy Senn can be found [here](assets/generations.pdf). 
 
 
 ### Congregations
