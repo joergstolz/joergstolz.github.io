@@ -4,7 +4,7 @@ layout: page
 ---
 
 ### Secularization
-Secularization research is one of my main fields of interest. I argue that one of the main causes of secularization is religious-secular competition, engaging religion in a "silent battle". Secularization happens because the offer of secular goods is increased, crowding out the religious offer both because of functional superiority and time constraints. The main publications, both theoretical and applied, are: 
+Secularization research is one of my main fields of interest. I argue that one of the main causes of secularization is religious-secular competition, engaging religion in a "silent battle". Secularization happens as the offer of secular goods is increased, crowding out the religious offer both because of functional superiority and time constraints. The main publications, both theoretical and applied, are: 
 
 [Stolz, J. 2009. 'A Silent Battle. Theorizing the Effects of Competition between Churches and Secular Institutions'. Review of Religious Research 51: 253-276.](assets/2013_SilentBattle.pdf)
 
@@ -26,23 +26,15 @@ and on the case of [France](assets/France.pdf) with Ferruccio Biolcati and Franc
 
 
 ### Congregations
-Inspired by the work of Mark Chaves, I have conducted a National Congregation studies in Switzerland together with Christophe Monnot. Currently, the [second wave](https://wp.unil.ch/ncs2/) is underway.
+Inspired by the work of Mark Chaves, I have conducted a National Congregation studies in Switzerland together with Christophe Monnot. This research produces representative information on the local religious groups across all religions. Currently, the [second wave](https://wp.unil.ch/ncs2/) is underway. One of the interesting questions to be solved before doing such a study is how to actually [recognize a congregation](assets/2015_RecognizeCongregation21 copy.pdf).
 
-[Stolz, J., Chaves, M., Monnot, C. and Amiotte-Suchet, L. 2011. 'Die religiösen Gemeinschaften in der Schweiz: Eigenschaften, Aktivitäten, Entwicklung'. Schlussbericht. Collectivités religieuses, Etat et société. Programme national de recherche PNR 58.](xxx)
+This research has allowed us to shed light on [female religious leadership](assets/2019_FemaleLeadership.pdf), the relationship between [established and newcomer religions](assets/2015_EstablishedNewcomers.pdf), [diversity of diversity](assets/2014_DiversityOfDiversity.pdf), [political engagement](assets/2019_EstablishmentPolitics.pdf) of local religious groups in Switzerland. 
 
-[Monnot, C. and Stolz, J. 2018. 'How Do You Recognize a "Congregation"? Definition and Operationalization Strategies of the Swiss Congregation Census' in Monnot, C. and Stolz, J. (eds.) Congregations in Europe: Springer.](xxx)
+Apart from showing basic facts about religion in Switzerland, NCS data has also allowed us to speak to more general theoretical debates. Thus, we have been able to show that - contra rational choice expectations - disestablishment does not lead to religious vitality: 
 
-[Monnot, C. and Stolz, J. 2018. 'Congregations in Europe' Congregations in Europe. Cham: Springer.](xxx)
+[Stolz, J. and Chaves, M. 2017. 'Does Disestablishment Lead to Religious Vitality? The Case of Switzerland'. British Journal of Sociology 2: 412-435.](assets/2018_EstablishmentBJS.pdf)
 
-[Stolz, J. and Monnot, C. 2019. 'Does establishment suppress congregations' political activities? Evidence from Switzerland'. Religion and Politics  (published online) 13: 28-56.](xxx)
-
-[Stolz, J. and Chaves, M. 2017. 'Does Disestablishment Lead to Religious Vitality? The Case of Switzerland'. British Journal of Sociology 2: 412-435.](xxx)
-
-[Stolz, J. and Monnot, C. 2016. 'Female Leadership in Different Religions: Norms, Power, and Money'. Journal of Contemporary Religion 34: 353-373.](xxx)
-
-[Stolz, J. and Monnot, C. 2018. 'The Established and the Newcomers. A Weberian-Bourdieusian View of Congregations in the Swiss Religious Field' in Monnot, C. and Stolz, J. (eds.) Congregations in Europe. Wiesbaden: Springer.](xxx)
-
-
+With Christoph Monnot, we have edited a book on ["Congregations in Europe"](assets/2018_CongregationsEurope.pdf) where findings from various countries are assembled.
 
 
 ### Ethnicity
