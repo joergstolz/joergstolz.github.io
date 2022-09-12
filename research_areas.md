@@ -16,7 +16,7 @@ Here's a recent overview article on the state of secularization research that ha
 
 [Stolz, Jörg. 2020. Secularization theories in the 21st century: Ideas, evidence, problems. Presidential Address. Social Compass, 67(2), 282-308.](assets/2020_Secularization.pdf)
 
-Not everybody agreed and an interesting discussion resulted with [François Gauthier](https://journals.sagepub.com/doi/abs/10.1177/0037768620917327?journalCode=scpa), [Tobias Müller](https://journals.sagepub.com/doi/full/10.1177/0037768620917328), [Sarah Wilkins-Laflamme](xxx), and [David Voas](xxx):
+Not everybody agreed and an interesting discussion resulted with [François Gauthier](https://journals.sagepub.com/doi/abs/10.1177/0037768620917327?journalCode=scpa), [Tobias Müller](https://journals.sagepub.com/doi/full/10.1177/0037768620917328), [Sarah Wilkins-Laflamme](https://journals.sagepub.com/doi/abs/10.1177/0037768620917330), and [David Voas](https://journals.sagepub.com/doi/10.1177/0037768620917329):
 
 I have worked with Detlef Pollack and Nan Dirk de Graaf on secular transition in West and East Germany: 
 
