@@ -26,7 +26,7 @@ In other publications, we have looked at the secular transition in  [France](ass
 ### Congregations
 Inspired by the work of Mark Chaves, I have conducted a National Congregation studies in Switzerland together with Christophe Monnot. This research produces representative information on the local religious groups across all religions. Currently, the [second wave](https://wp.unil.ch/ncs2/) is underway. One of the interesting questions to be solved before doing such a study is how to actually [recognize a congregation](assets/2015_RecognizeCongregation21 copy.pdf).
 
-This research has allowed us to shed light on [female religious leadership](assets/2019_FemaleLeadership.pdf), the relationship between [established and newcomer religions](assets/2015_EstablishedNewcomers.pdf), [diversity of diversity](assets/2014_DiversityOfDiversity.pdf), [political engagement](assets/2019_EstablishmentPolitics.pdf) of local religious groups in Switzerland. 
+This research has allowed us to shed light on [female religious leadership](assets/2019_FemaleLeadership.pdf), the relationship between [established and newcomer religions](assets/2015_EstablishedNewcomers.pdf), [diversity of diversity](assets/2014_DiversityOfDiversity.pdf), and [political engagement](assets/2019_EstablishmentPolitics.pdf) of local religious groups in Switzerland. 
 
 Apart from showing basic facts about religion in Switzerland, NCS data has also allowed us to speak to more general theoretical debates. Thus, we have been able to show that - contra rational choice expectations - disestablishment does not lead to religious vitality: 
 
