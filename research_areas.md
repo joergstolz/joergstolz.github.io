@@ -44,33 +44,18 @@ One of my theoretical ideas, probably inspired by my teacher Niklas Luhmann, is 
 
 
 ### Rational Choice, analytical sociology, and religion
-Being a student of Raymond Boudon, I have always been interested in explanatory sociology. Several of my publications concern rational choice approaches and analytical sociology:
+Being a student of Raymond Boudon, I have always been interested in explanatory sociology. Several of my publications concern rational choice approaches and analytical sociology. Some articles concern the question of whether and how religions offer ["salvation goods"](assets/2005_SalvationGoods.pdf) and can be marketed and branded. Other articles are (friedly) [critiques of rational choice approaches to religion](xxxx). Some are less friendly, though, such as when I show with Mark Chaves that disestablishment does not lead to religious revival: 
 
-[Stolz, J. 2006. 'Salvation Goods and Religious Markets: Integrating Rational Choice and Weberian Perspectives'. Social Compass 53: 13-32.](xxx)
+[Stolz, J. and Chaves, M. 2017. 'Does Disestablishment Lead to Religious Vitality? The Case of Switzerland'. British Journal of Sociology 2: 412-435.
+](assets/2020_CanTheState.pdf)
 
-[Stolz, J. 2008. 'Secularization theory and rational choice. An integration of micro- and macro-theories of secularization using the example of Switzerland' in Pollack, D. and Olson, D.V.A. (eds.) The Role of Religion in Modern Societies. New York: Routledge.](xxx)
+A more historical companion paper can be found [here](2017_Economics of religion.pdf)
 
-[Stolz, J. 2018. 'Economics of religion on trial: How disestablishment did not lead to religious revival in the Swiss cantons of Geneva and Neuchâtel'. Journal of Contemporary Religion 33.](xxxx)
-
-[Stolz, J. 2009. 'Explaining Religiosity: Towards a Unified Theoretical Model'. British Journal of Sociology 60: 345-376.](xxx)
-
-
+With Jean-Claude Usunier, I have edited a book on [religions as brands](assets/2011_ReligionsBrands.pdf).
 
 
 ### Evangelicals, Pentecostals, Fundamentalists
-I have always been fascinated by evangelicals, pentecostals and fundamentalists. Some of my work can be found here: 
-
-[Stolz, J. and Favre, O. 2005. 'The evangelical milieu. Defining criteria and reproduction across the generations'. Social Compass 52: 169-183.](xxx)
-
-[Stolz, Jörg and Olivier Favre. 2019. Evangelicals, Pentecostals, Fundamentalists. Describing and Explaining Growth and Decline in Switzerland 1970-2013. Journal for the scientific study of religion, 58(3):604-25.](xxx)
-
-[Stolz, J. 2011. '"All Things Are Possible". Towards a Sociological Explanation of Pentecostal Miracles and Healings'. Sociology of Religion 72: 456-482.](xxx)
-
-[Stolz, J., Favre, O., Gachet, C. and Buchard, E. 2012. 'Le phénomène évangélique. A l'intérieur d'un milieu compétitif'. Genève: Labor et Fides.](xxx)
-
-[Stolz, J., Favre, O., Gachet, C. and Buchard, E. 2014. Phänomen Freikirchen. Analysen eines wettbewerbsstarken Milieus. Zürich: TVZ.](xxx)
-
-
+I have always been fascinated by evangelicals, pentecostals and fundamentalists. Most of my work on evangelicals has been done in collaboration with Olivier Favre, Caroline Gachet and Emmanuelle Buchard. Check out articles on [the evangelical milieu](), the evolution of Evangelicals, Pentecostals, and Fundamentalists](xxxx), or the explanation of [Pentecostal healings](assets/2011_AllThingsPossible.pdf). Our book-length treatment of evangelicals in Switzerland is available in [German](assets/2014_PhänomenFreikirchen.epub) and [French](assets/2012_PhénomèneEvangélique.pdf). 
 
 
 ### Mixed Methods
@@ -82,6 +67,8 @@ Together with various colleagues, I have  conducted three large scale mixed meth
 On religiosity in Switzerland: 
 
 [Stolz, J., Könemann, J., Schneuwly Purdie, M., Englberger, T. and Krüggeler, M. 2016. (Un)Believing in modern society. Religion, spirituality, and religious-secular competition. London: Routledge.](xxxx)
+
+This book is available in [English](assets/2016_Un_Believing_in_modern_society._Religio.pdf), [French](assets/2015_EreDelEgo.pdf), and [German](xxxx).
 
 On Evangelicals in Switzerland: 
 
