@@ -36,27 +36,11 @@ With Christoph Monnot, we have edited a book on ["Congregations in Europe"](asse
 
 
 ### Ethnicity
-Together with Anaïd Lindemann, I have conducted work on islamophobia: 
-
-[Stolz, J. 2006. 'Explaining islamophobia. A test of four Theories Based on the Case of a Swiss City'. Schweizerische Zeitschrift für Soziologie 31: 547-566.](xxx)
-
-[Lindemann, A. and Stolz, J. 2014. 'Use of Islam in the Definition of Foreign Otherness in Switzerland: A Comparative Analysis of Media Discourses Between 1970-2004'. Islamophobia Studies Journal 2: 44-58.](xxx)
-
-[Lindemann, A. and Stolz, J. 2018. 'The Muslim Unemployment Gap in Switzerland. The Importance of Ethno-Religious Penalties'. Social Inclusion 6: 2.](xxx)
-
-[Lindemann, A. and Stolz, J. 2020. 'Perceived discrimination among Muslims and its correlates. A comparative analysis'. Ethnic and Racial Studies 44: 173-194.](xxx)
-
-
-
+Together with Anaïd Lindemann, I have conducted work on islamophobia. Check out papers on [explaining islamophobia](assets/2005_Explaining_Islamophobia_A_test_of_four_T.pdf), [islamophobia in media discourses](....), the [Muslim unemployment gap](assets/2018_Muslim_Employment Gap.pdf), or the [perceived discrimination among Muslims](assets/2020_Discrimination.pdf)
 
 
 ### Social Games
-One of my theoretical ideas, probably inspired by my teacher Niklas Luhmann, is that the concept of the "social game" may be used to construct a general theory of the social world. For now, the following publications are available:
-
-[Stolz, J. 2016. 'The Theory of Social Games as a Metatheory for Mixed Methods (in preparation)'.](xxx)
-
-[Stolz, J. and Lindemann, A. 2019. 'The Titanic Game : Introducing game heuristics to mixed methods research'. Journal of Mixed Methods Research: 1-23.](xxx)
-
+One of my theoretical ideas, probably inspired by my teacher Niklas Luhmann, is that the concept of the "social game" may be used to construct a general theory of the social world. For now, a general [outline](2019_Games.pdf) and a paper on [game heuristics](2020_TitanicGame.pdf) is available. 
 
 
 ### Rational Choice, analytical sociology, and religion
