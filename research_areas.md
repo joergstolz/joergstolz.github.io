@@ -60,29 +60,26 @@ I have always been fascinated by evangelicals, pentecostals and fundamentalists.
 
 
 ### Mixed Methods
-I believe that the combination of qualitative and quantitative methods has much to offer. My methodological views on mixed methods can be found in these publications:
+I believe that the combination of qualitative and quantitative methods has much to offer. I believe that explanatory/analytical sociology could benefit from mixed methods as explained [here](assets/2016_OpeningBlackBox.pdf).
 
-
-Together with various colleagues, I have  conducted three large scale mixed methods studies on religion in Switzerland. The main publications are: 
-
+Together with various colleagues, I have  conducted three large scale mixed methods studies on religion in Switzerland. 
 On religiosity in Switzerland: 
 
-[Stolz, J., Könemann, J., Schneuwly Purdie, M., Englberger, T. and Krüggeler, M. 2016. (Un)Believing in modern society. Religion, spirituality, and religious-secular competition. London: Routledge.](xxxx)
+[Stolz, J., Könemann, J., Schneuwly Purdie, M., Englberger, T. and Krüggeler, M. 2016. (Un)Believing in modern society. Religion, spirituality, and religious-secular competition. London: Routledge.](assets/2016_Un_Believing_in_modern_society._Religio.pdf)
 
-This book is available in [English](assets/2016_Un_Believing_in_modern_society._Religio.pdf), [French](assets/2015_EreDelEgo.pdf), and [German](xxxx).
+This book is available in [English](assets/2016_Un_Believing_in_modern_society._Religio.pdf), [French](assets/2015_EreDelEgo.pdf), and [German](assets/2014_IchGesellschaft.pdf).
 
 On Evangelicals in Switzerland: 
 
 [Stolz, J., Favre, O., Gachet, C. and Buchard, E. 2012. 'Le phénomène évangélique. A l'intérieur d'un milieu compétitif'. Genève: Labor et Fides.](assets/2012_PhénomèneEvangélique.pdf)
 
-[Stolz, J., Favre, O., Gachet, C. and Buchard, E. 2014. Phänomen Freikirchen. Analysen eines wettbewerbsstarken Milieus. Zürich: TVZ.](xxx)
-
+This book is also available in a [German](assets/2014_PhänomenFreikirchen.epub) version.
 
 On secularists in Switzerland: 
 
-[Tanner, P. 2020. Das Freidenkertum in der Schweiz. Säkularismus in Zeiten der Säkularisierung. Thèse de doctorat. Lausanne: Université d Lausanne.](xxx)
+Tanner, P. 2020. Das Freidenkertum in der Schweiz. Säkularismus in Zeiten der Säkularisierung. Thèse de doctorat. Lausanne: Université d Lausanne. This book will soon be published.
 
-
+I also have published three articles on the [Titanic example](https://joergstolz.github.io/teaching/) and mixed methods.
 
 
 
