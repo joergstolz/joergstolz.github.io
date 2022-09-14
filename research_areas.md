@@ -20,7 +20,7 @@ David Voas has suggested in excellent publications that secularization takes the
 
 [Stolz, J., Pollack, D. and De Graaf , N.D. 2020. 'Can the State accelerate the Secular Transitition? Secularization in East- and West Germany as a Natural Experiment'. European Sociological Review 36: 626-642.](assets/CanTheState.pdf)
 
-In other publications, we have looked at the secular transition in  [France](assets/France.pdf) with Ferruccio Biolcati and Francesco Molteni. Recent results on Switzerland, from work with Jeremy Senn can be found [here](assets/generations.pdf). 
+In other publications, we have looked at the secular transition in  [France](assets/2021_France.pdf) with Ferruccio Biolcati and Francesco Molteni. Recent results on Switzerland, from work with Jeremy Senn can be found [here](assets/2021_Generations_e.pdf). 
 
 
 ### Congregations
@@ -44,18 +44,19 @@ One of my theoretical ideas, probably inspired by my teacher Niklas Luhmann, is 
 
 
 ### Rational Choice, analytical sociology, and religion
-Being a student of Raymond Boudon, I have always been interested in explanatory sociology. Several of my publications concern rational choice approaches and analytical sociology. Some articles concern the question of whether and how religions offer ["salvation goods"](assets/2005_SalvationGoods.pdf) and can be marketed and branded. Other articles are (friedly) [critiques of rational choice approaches to religion](xxxx). Some are less friendly, though, such as when I show with Mark Chaves that disestablishment does not lead to religious revival: 
+Being a student of Raymond Boudon, I have always been interested in explanatory sociology. Several of my publications concern rational choice approaches and analytical sociology. Some articles concern the question of whether and how religions offer ["salvation goods"](assets/2005_SalvationGoods.pdf) and can be marketed and branded. Other articles are (friendly) [critiques of rational choice approaches to religion](xxxx). Some are less friendly, though, such as when I show with Mark Chaves that disestablishment does not lead to religious revival: 
 
 [Stolz, J. and Chaves, M. 2017. 'Does Disestablishment Lead to Religious Vitality? The Case of Switzerland'. British Journal of Sociology 2: 412-435.
 ](assets/2020_CanTheState.pdf)
 
-A more historical companion paper can be found [here](2017_Economics of religion.pdf)
+A more historical companion paper can be found [here](assets/2017_Economics of religion.pdf)
 
-With Jean-Claude Usunier, I have edited a book on [religions as brands](assets/2011_ReligionsBrands.pdf).
+With Jean-Claude Usunier, I have edited a book on [religions as brands](assets/2011_ReligionsBrands.pdf) and there is a journal article on the 
+topic [here](assets/2017_ReligionsBrands.pdf). 
 
 
 ### Evangelicals, Pentecostals, Fundamentalists
-I have always been fascinated by evangelicals, pentecostals and fundamentalists. Most of my work on evangelicals has been done in collaboration with Olivier Favre, Caroline Gachet and Emmanuelle Buchard. Check out articles on [the evangelical milieu](), the evolution of Evangelicals, Pentecostals, and Fundamentalists](xxxx), or the explanation of [Pentecostal healings](assets/2011_AllThingsPossible.pdf). Our book-length treatment of evangelicals in Switzerland is available in [German](assets/2014_PhänomenFreikirchen.epub) and [French](assets/2012_PhénomèneEvangélique.pdf). 
+I have always been fascinated by evangelicals, pentecostals and fundamentalists. Most of my work on evangelicals has been done in collaboration with Olivier Favre, Caroline Gachet and Emmanuelle Buchard. Check out articles on [the evangelical milieu](assets/2005_EvangelicalMilieu.pdf), the evolution of Evangelicals, Pentecostals, and Fundamentalists](assets/2019_GrowthEFPC.pdf), or the explanation of [Pentecostal healings](assets/2011_AllThingsPossible.pdf). Our book-length treatment of evangelicals in Switzerland is available in [German](assets/2014_PhänomenFreikirchen.epub) and [French](assets/2012_PhénomèneEvangélique.pdf). 
 
 
 ### Mixed Methods
