@@ -19,7 +19,7 @@ Not everybody agreed and an interesting discussion resulted with [François Gaut
 
 David Voas has suggested in excellent publications that secularization takes the form of a "secular transition". In an article on Germany with Detlef Pollack and Nan Dirk de Graaf we have shown that the state can actually accelerate this transition:
 
-[Stolz, J., Pollack, D. and De Graaf , N.D. 2020. 'Can the State accelerate the Secular Transitition? Secularization in East- and West Germany as a Natural Experiment'. European Sociological Review 36: 626-642.](assets/CanTheState.pdf)
+[Stolz, J., Pollack, D. and De Graaf , N.D. 2020. 'Can the State accelerate the Secular Transitition? Secularization in East- and West Germany as a Natural Experiment'. European Sociological Review 36: 626-642.](assets/2020_CanTheState.pdf)
 
 In other publications, we have looked at the secular transition in  [France](assets/2021_France.pdf) with Ferruccio Biolcati and Francesco Molteni. Recent results on Switzerland, from work with Jeremy Senn can be found [here](assets/2021_Generations_e.pdf). 
 
