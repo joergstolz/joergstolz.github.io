@@ -25,7 +25,7 @@ In other publications, we have looked at the secular transition in  [France](ass
 
 
 ### Ethnicity
-Together with Anaïd Lindemann, I have conducted work on islamophobia. Check out papers on [explaining islamophobia](assets/2005_Explaining_Islamophobia_A_test_of_four_T.pdf), [islamophobia in media discourses](....), the [Muslim unemployment gap](assets/2018_Muslim_Employment Gap.pdf), or the [perceived discrimination among Muslims](assets/2020_Discrimination.pdf)
+Together with Anaïd Lindemann, I have conducted work on islamophobia. Check out papers on [explaining islamophobia](assets/2005_Explaining_Islamophobia_A_test_of_four_T.pdf), [islamophobia in media discourses](assets/2014_UseOfIslam.pdf), the [Muslim unemployment gap](assets/2018_Muslim_Employment Gap.pdf), or the [perceived discrimination among Muslims](assets/2020_Discrimination.pdf)
 
 ### Evangelicals, Charismatics, Pentecostals, Fundamentalists
 I have always been fascinated by evangelicals, pentecostals and fundamentalists. Most of my work on evangelicals has been done in collaboration with Olivier Favre, Caroline Gachet and Emmanuelle Buchard. Check out articles on [the evangelical milieu](assets/2005_EvangelicalMilieu.pdf), the evolution of Evangelicals, Pentecostals, and Fundamentalists](assets/2019_GrowthEFPC.pdf), or the explanation of [Pentecostal healings](assets/2011_AllThingsPossible.pdf). Our book-length treatment of evangelicals in Switzerland is available in [German](assets/2014_PhänomenFreikirchen.epub) and [French](assets/2012_Evangelicals.pdf). 
