@@ -65,6 +65,8 @@ Tanner, P. 2020. Das Freidenkertum in der Schweiz. Säkularismus in Zeiten der S
 I also have published three articles on the [Titanic example](https://joergstolz.github.io/teaching/) and mixed methods.
 
 
+### Mainline (Reformed) Churches
+Work with Edmee Ballif resulted in a book on the Reformed Churches, available both in [German](assets/2010_ZdR.pdf) and [French](assets/2009_AdR.pdf). 
 
 
 ### Rational Choice, analytical sociology, and religion
