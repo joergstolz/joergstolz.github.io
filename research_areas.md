@@ -8,7 +8,7 @@ Secularization research is one of my main fields of interest. I argue that one o
 
 [Stolz, J. 2009. 'Explaining Religiosity: Towards a Unified Theoretical Model'. British Journal of Sociology 60: 345-376.](assets/2009_ExplainingReligiosity.pdf)
 
-[Stolz, J., Könemann, J., Schneuwly Purdie, M., Englberger, T. and Krüggeler, M. 2016. (Un)Believing in modern society. Religion, spirituality, and religious-secular competition. London: Routledge.](assets/2016_Un_Believing_in_modern_society._Religio.pdf)
+[Stolz, J., Könemann, J., Schneuwly Purdie, M., Englberger, T. and Krüggeler, M. 2016. (Un)Believing in modern society. Religion, spirituality, and religious-secular competition. London: Routledge.](assets/Unbelieving_compressed.pdf)
 
 Here's a recent overview article on the state of secularization research that has appeared in Social Compass: 
 
