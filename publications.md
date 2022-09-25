@@ -3,15 +3,6 @@ layout: page
 title: "Publications"
 ---
 
-<img 
-     src="assets/books1.jpg" 
-     height="450px"
-     width="900px"
-     alt="drawing1"
-     />
-
-
-
 
 
 ### Books
