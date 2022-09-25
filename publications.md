@@ -10,7 +10,7 @@ title: "Publications"
 ### Books
 
 
-2022	Stolz Jörg, Bünker Arndt, Liedhegener Antonius et al. Religionstrends in der Schweiz. Religion, Spiritualität und Säkularität im Wandel. Springer
+[2022	Stolz Jörg, Bünker Arndt, Liedhegener Antonius et al. Religionstrends in der Schweiz. Religion, Spiritualität und Säkularität im Wandel. Springer](https://link.springer.com/book/10.1007/978-3-658-36568-4)
 
 2014	Stolz, Jörg, Judith Könemann, Mallory Schneuwly Purdie, Thomas Englberger and Michael Krüggeler. Religion und Spiritualität in der Ich-Gesellschaft. Vier Gestalten des (Un-)Glaubens. Zürich: TVZ/NZN.
 
