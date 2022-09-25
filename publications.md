@@ -3,6 +3,8 @@ layout: page
 title: "Publications"
 ---
 
+<img src="assets/ReligionsAsBrands.jpg" alt="drawing" style="width:300px;"/>
+<img src="assets/ReligionEtSpiritualite.jpg" alt="drawing" style="width:300px;"/>
 
 
 ### Books
