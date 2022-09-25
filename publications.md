@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 ---
 
-<img src="https://github.com/joergstolz/joergstolz.github.io/blob/master/assets/books1.jpg)">
+<img src="assets/books1.jpg)">
 
 
 
