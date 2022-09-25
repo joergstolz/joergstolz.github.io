@@ -4,7 +4,6 @@ title: "Publications"
 ---
 
 
-<img src="assets/Picture_3.jpg" alt="drawing" style="width:300px;"/>
 
 
 ### Books
@@ -249,8 +248,6 @@ Book Reviews
 
 (Updated 17.8.2022)
 
-
-<img src="assets/Picture_3.jpg" alt="drawing" style="width:300px;"/>
 
 
 
