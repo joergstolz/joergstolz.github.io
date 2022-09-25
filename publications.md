@@ -4,6 +4,8 @@ title: "Publications"
 ---
 
 
+![Books logo](assets/books.jpg)
+
 
 ### Books
 
