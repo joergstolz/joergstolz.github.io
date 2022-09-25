@@ -4,9 +4,7 @@ title: "Publications"
 ---
 
 
-<img src="assets/books1.jpg" alt="drawing" >
-
-<img src="assets/ReligionsAsBrands.jpg" alt="drawing" >
+<img src="assets/Picture_3.jpg" alt="drawing" style="width:300px;"/>
 
 
 ### Books
