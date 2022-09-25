@@ -5,6 +5,26 @@ title: "Publications"
 
 
 
+### Books
+
+
+2022	Stolz Jörg, Bünker Arndt, Liedhegener Antonius et al. Religionstrends in der Schweiz. Religion, Spiritualität und Säkularität im Wandel. Springer
+
+2014	Stolz, Jörg, Judith Könemann, Mallory Schneuwly Purdie, Thomas Englberger and Michael Krüggeler. Religion und Spiritualität in der Ich-Gesellschaft. Vier Gestalten des (Un-)Glaubens. Zürich: TVZ/NZN.
+
+French translation: 2015, Stolz, Jörg, Judith Könemann, Mallory Schneuwly Purdie, Thomas Englberger and Michael Krüggeler. Religion et spiritualité à l'ère de l'ego. Profils de l'institutionnel, de l'alternatif, du distancié et du séculier. Genève: Labor et Fides.
+
+English transation: 2016,Stolz, Jörg, Judith Könemann, Mallory Schneuwly Purdie, Thomas Englberger and Michael Krüggeler. 2016. (Un)Believing in Modern Society. Religion, Spirituality, and Religious-Secular Competition. London: Routledge.
+
+2012	Stolz, Jörg, Oliver Favre, Caroline Gachet and Emmanuelle Buchard. 2012. Le phénomène évangélique. A l'intérieur d'un milieu compétitif. Genève: Labor et Fides.
+
+German transation: 2014, Stolz, Jörg, Oliver Favre, Caroline Gachet and Emmanuelle Buchard. 2014. Phänomen Freikirchen. Analysen eines wettbewerbsstarken Milieus. Zürich: TVZ.
+
+2010	Stolz, Jörg and Edmée Ballif. Die Zukunft der Reformierten. Gesellschaftliche Megatrends - Kirchliche Reaktionen. Zürich: TVZ.
+French translation: 2011, Stolz, Jörg and Edmée Ballif. L'avenir des Réformés. Genève: Labor et Fides.
+
+2000	Stolz, Jörg. Soziologie Der Fremdenfeindlichkeit. Theoretische und empirische 	Analysen. Frankfurt/Main: Campus.
+
 ### Articles (Peer-Reviewed Journals)
 
 2021	Stolz, J. and Senn, J. 2021. 'Des générations à la foi décroissante: religion et sécularisation en Suisse 1930-2020'. Social Change in Switzerland 27: 1-14.
@@ -91,27 +111,7 @@ title: "Publications"
 2022	Stolz, Jörg, Social Games. Outline of a general theory of the social sciences  (submitted)
 
 
-### Books
-
-
-2022	Stolz Jörg, Bünker Arndt, Liedhegener Antonius et al. Religionstrends in der Schweiz. Religion, Spiritualität und Säkularität im Wandel. Springer
-
-2014	Stolz, Jörg, Judith Könemann, Mallory Schneuwly Purdie, Thomas Englberger and Michael Krüggeler. Religion und Spiritualität in der Ich-Gesellschaft. Vier Gestalten des (Un-)Glaubens. Zürich: TVZ/NZN.
-
-French translation: 2015, Stolz, Jörg, Judith Könemann, Mallory Schneuwly Purdie, Thomas Englberger and Michael Krüggeler. Religion et spiritualité à l'ère de l'ego. Profils de l'institutionnel, de l'alternatif, du distancié et du séculier. Genève: Labor et Fides.
-
-English transation: 2016,Stolz, Jörg, Judith Könemann, Mallory Schneuwly Purdie, Thomas Englberger and Michael Krüggeler. 2016. (Un)Believing in Modern Society. Religion, Spirituality, and Religious-Secular Competition. London: Routledge.
-
-2012	Stolz, Jörg, Oliver Favre, Caroline Gachet and Emmanuelle Buchard. 2012. Le phénomène évangélique. A l'intérieur d'un milieu compétitif. Genève: Labor et Fides.
-
-German transation: 2014, Stolz, Jörg, Oliver Favre, Caroline Gachet and Emmanuelle Buchard. 2014. Phänomen Freikirchen. Analysen eines wettbewerbsstarken Milieus. Zürich: TVZ.
-
-2010	Stolz, Jörg and Edmée Ballif. Die Zukunft der Reformierten. Gesellschaftliche Megatrends - Kirchliche Reaktionen. Zürich: TVZ.
-French translation: 2011, Stolz, Jörg and Edmée Ballif. L'avenir des Réformés. Genève: Labor et Fides.
-
-2000	Stolz, Jörg. Soziologie Der Fremdenfeindlichkeit. Theoretische und empirische 	Analysen. Frankfurt/Main: Campus.
-
-Edited Books
+### Edited Books
 
 2018	Monnot, Christophe and Jörg Stolz. Congregations in Europe: Springer.
 
