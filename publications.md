@@ -4,6 +4,7 @@ title: "Publications"
 ---
 
 <img src="assets/Books.jpg" style="width:900px;"/>
+<img src="assets/Books.jpg" class="img-responsive" alt=""> </div>
 
 
 ### Books
