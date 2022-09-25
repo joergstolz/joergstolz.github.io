@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 
-<img src="./assets/books.jpg" alt="drawing" style="width:300px;"/>
+<img src="./assets/books1.jpg" alt="drawing" >
 
 
 
