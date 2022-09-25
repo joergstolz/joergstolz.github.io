@@ -4,6 +4,9 @@ title: "Publications"
 ---
 
 
+<img src="assets/Picture_3.jpg" alt="drawing" style="width:300px;"/>
+
+
 
 ### Books
 
