@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 ---
 
-<img src="assets/books1.jpg" alt="drawing" style="width:900px;"/>
+<img src="assets/books1.jpg" alt="drawing"/>
 
 
 
