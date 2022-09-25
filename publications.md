@@ -5,7 +5,7 @@ title: "Publications"
 
 <img 
      src="assets/books1.jpg" 
-     height="300px"
+     height="400px"
      width="900px"
      alt="drawing"
      />
