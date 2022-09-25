@@ -14,7 +14,7 @@ title: "Publications"
 
 French translation: 2015, Stolz, Jörg, Judith Könemann, Mallory Schneuwly Purdie, Thomas Englberger and Michael Krüggeler. Religion et spiritualité à l'ère de l'ego. Profils de l'institutionnel, de l'alternatif, du distancié et du séculier. Genève: Labor et Fides.
 
-English transation: 2016,Stolz, Jörg, Judith Könemann, Mallory Schneuwly Purdie, Thomas Englberger and Michael Krüggeler. 2016. (Un)Believing in Modern Society. Religion, Spirituality, and Religious-Secular Competition. London: Routledge.
+English translation: 2016,Stolz, Jörg, Judith Könemann, Mallory Schneuwly Purdie, Thomas Englberger and Michael Krüggeler. 2016. (Un)Believing in Modern Society. Religion, Spirituality, and Religious-Secular Competition. London: Routledge.
 
 2012	Stolz, Jörg, Oliver Favre, Caroline Gachet and Emmanuelle Buchard. 2012. Le phénomène évangélique. A l'intérieur d'un milieu compétitif. Genève: Labor et Fides.
 
