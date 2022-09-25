@@ -3,9 +3,8 @@ layout: page
 title: "Publications"
 ---
 
-<img src="assets/ReligionsAsBrands.jpg" class="img-responsive" alt=""> </div>
-<img src="assets/ReligionsAsBrands.jpg" alt="drawing" style="width:300px;"/>
-<img src="assets/books.jpg" alt="drawing" style="width:300px;"/>
+
+<img src="./assets/books.jpg" alt="drawing" style="width:300px;"/>
 
 
 
