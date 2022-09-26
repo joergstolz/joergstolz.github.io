@@ -70,7 +70,7 @@ Work with Edmee Ballif resulted in a book on the Reformed Churches, available bo
 
 
 ### Rational Choice, analytical sociology, and religion
-Being a student of Raymond Boudon, I have always been interested in explanatory sociology. Several of my publications concern rational choice approaches and analytical sociology. Some articles concern the question of whether and how religions offer ["salvation goods"](assets/2005_SalvationGoods.pdf) and can be marketed and branded. Other articles are (friendly) [critiques of rational choice approaches to religion](assets/2014_RatChoice.docx). Some are less friendly, though, such as when I show with Mark Chaves that disestablishment does not lead to religious revival: 
+Being a student of Raymond Boudon, I have always been interested in explanatory sociology. Several of my publications concern rational choice approaches and analytical sociology. Some articles concern the question of whether and how religions offer ["salvation goods"](assets/2005_SalvationGoods.pdf) and can be marketed and branded. Other articles are (friendly) [critiques of rational choice approaches to religion](assets/2014_RatChoice.pdf). Some are less friendly, though, such as when I show with Mark Chaves that disestablishment does not lead to religious revival: 
 
 [Stolz, J. and Chaves, M. 2017. 'Does Disestablishment Lead to Religious Vitality? The Case of Switzerland'. British Journal of Sociology 2: 412-435.
 ](assets/2020_CanTheState.pdf)
