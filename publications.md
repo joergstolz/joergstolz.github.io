@@ -234,7 +234,7 @@ French version, reprint: 2019 Stolz, Jörg and Christophe Monnot. Églises étab
 
 2001	Stolz, Jörg. Individuelle Religiosität, Kirchenbindung und Einstellungen zu den Kirchen im Kanton Zürich und in der Schweiz. Ein Bericht zuhanden des evangelisch-reformierten Kirchenrates des Kantons Zürich. Zürich.
 
-Book Reviews
+### Book Reviews
 
 2016	Stolz, Jörg. Review of: Lehmann, Karsten, Religious Ngos in International Relations. The Construction of the Religious and the Secular, Routledge. Journal of Contemporary Religion.
 
