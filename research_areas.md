@@ -83,7 +83,7 @@ topic [here](assets/2017_ReligionsBrands.pdf).
 
 
 ### Social Games
-One of my theoretical ideas, probably inspired by my teacher Niklas Luhmann, is that the concept of the "social game" may be used to construct a general theory of the social world. For now, a general [outline](2019_Games.pdf) and a paper on [game heuristics](2020_TitanicGame.pdf) is available. 
+One of my theoretical ideas, probably inspired by my teacher Niklas Luhmann, is that the concept of the "social game" may be used to construct a general theory of the social world. For now, a general [outline](assets/2019_Games.pdf) and a paper on [game heuristics](assets/2020_TitanicGame.pdf) is available. 
 
 
 
