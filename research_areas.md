@@ -75,7 +75,7 @@ Being a student of Raymond Boudon, I have always been interested in explanatory 
 [Stolz, J. and Chaves, M. 2017. 'Does Disestablishment Lead to Religious Vitality? The Case of Switzerland'. British Journal of Sociology 2: 412-435.
 ](assets/2020_CanTheState.pdf)
 
-A more historical companion paper can be found [here](assets/2017_Economics of religion.pdf).
+A more historical companion paper can be found [here](assets/2017_EconomicsOfReligion.pdf).
 
 With Jean-Claude Usunier, I have edited a book on [religions as brands](assets/2011_ReligionsBrands.pdf) and there is a journal article on the 
 topic [here](assets/2017_ReligionsBrands.pdf). 
