@@ -23,6 +23,9 @@ David Voas has suggested in excellent publications that secularization takes the
 
 In other publications, we have looked at the secular transition in  [France](assets/2021_France.pdf) with Ferruccio Biolcati and Francesco Molteni. Recent results on Switzerland, from work with Jeremy Senn can be found [here](assets/2021_Generations_e.pdf). 
 
+### Religious revival
+A paper co-authored with Alexi Gugushvili and Francesco Molteni seeks to explain the astounding religious revival in Georgia from 1985 onwards. It has appeared in BJS and can be found [here](assets/.
+
 
 ### Ethnicity
 Together with Anaïd Lindemann, I have conducted work on islamophobia. Check out papers on [explaining islamophobia](assets/2005_Explaining_Islamophobia_A_test_of_four_T.pdf), [islamophobia in media discourses](assets/2014_UseOfIslam.pdf), the [Muslim unemployment gap](assets/2018_Muslim_Employment Gap.pdf), or the [perceived discrimination among Muslims](assets/2020_Discrimination.pdf)
