@@ -24,7 +24,8 @@ David Voas has suggested in excellent publications that secularization takes the
 In other publications, we have looked at the secular transition in  [France](assets/2021_France.pdf) with Ferruccio Biolcati and Francesco Molteni. Recent results on Switzerland, from work with Jeremy Senn can be found [here](assets/2021_Generations_e.pdf). 
 
 ### Religious revival
-A paper co-authored with Alexi Gugushvili and Francesco Molteni seeks to explain the astounding religious revival in Georgia from 1985 onwards. It has appeared in BJS and can be found [here](assets/.
+A paper co-authored with Alexi Gugushvili and Francesco Molteni seeks to explain the astounding religious revival in Georgia from 1985 onwards. It has appeared in BJS and can be found [here](assets/2023_Georgia.pdf).
+A recent paper co-authored with David Voas proposes a new typology of mechanisms that lead to religious revival in the context of long-term secularization. It can be found [here](assets/2023_ExplainRevival.pdf).
 
 
 ### Ethnicity
