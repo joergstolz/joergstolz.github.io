@@ -9,7 +9,6 @@ title: "Publications"
 
 ### Books
 
-
 [2022	Stolz Jörg, Bünker Arndt, Liedhegener Antonius et al. Religionstrends in der Schweiz. Religion, Spiritualität und Säkularität im Wandel. Springer](https://link.springer.com/book/10.1007/978-3-658-36568-4)
 
 2014	Stolz, Jörg, Judith Könemann, Mallory Schneuwly Purdie, Thomas Englberger and Michael Krüggeler. Religion und Spiritualität in der Ich-Gesellschaft. Vier Gestalten des (Un-)Glaubens. Zürich: TVZ/NZN.
@@ -29,7 +28,13 @@ French translation: 2011, Stolz, Jörg and Edmée Ballif. L'avenir des Réformé
 
 ### Articles (Peer-Reviewed Journals)
 
-2021	Stolz, J. and Senn, J. 2021. 'Des générations à la foi décroissante: religion et sécularisation en Suisse 1930-2020'. Social Change in Switzerland 27: 1-14.
+2023    Stolz, Jörg. The theory of social games: outline of a general theory for the social sciences. Humanities and Social Sciences Communications 10: 1-12
+
+2023    Stolz, Jörg, Gugushvili, Alexi, Molteni, Franceso and Antonietti, Jean-Philippe. A Counter-Example to Secularization Theory? Assessing the Georgian Religious Revival (published online). British Journal of Sociology.https://doi.org/10.1111/1468-4446.13009
+
+2023,   Stolz, Jörg and Voas, David. Explaining Religious Revival in the Context of Long-Term Secularization. Religions 14.
+
+2021	Stolz, Jörg and Senn, Jeremy. 2021. Des générations à la foi décroissante: religion et sécularisation en Suisse 1930-2020. Social Change in Switzerland 27: 1-14.
 
 2021 	Lindemann, Anaïd and Jörg Stolz. Using the Titanic datasets to teach Mixed Methods Data Analysis. Methodology 17: 231-249.
 
