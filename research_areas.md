@@ -47,6 +47,14 @@ Apart from showing basic facts about religion in Switzerland, NCS data has also 
 
 With Christoph Monnot, we have edited a book on ["Congregations in Europe"](assets/2018_CongregationsEurope.pdf) where findings from various countries are assembled.
 
+The results of the second wave of the National Congregations Study Switzerland are starting to come out. An overview of results can be founde [here](https://wp.unil.ch/ncs2/). An article co-authored with Jeremy Senn and Christophe Monnot looks at the way religious diversity has changed in Switzerland: 
+
+[Diversity dynamics. How local religious groups are born, stay, and die over time. Journal for the Scientific Study of Religion, 2024, 63(3), 519-542.](https://onlinelibrary.wiley.com/doi/10.1111/jssr.12907)
+
+Another article, co-authored with Jeremy Senn, demonstrates a sequence in the rise of female religious leadership: 
+[The Sequential Rise of Female Religious Leadership. Sociological Science, 2025,
+DOI: 10.15195/v12.a9](https://sociologicalscience.com/download/vol_12/march/SocSci_v12_180to201.pdf)
+
 
 ### Mixed Methods
 I believe that the combination of qualitative and quantitative methods has much to offer. I believe that explanatory/analytical sociology could benefit from mixed methods as explained [here](assets/2016_OpeningBlackBox.pdf).
