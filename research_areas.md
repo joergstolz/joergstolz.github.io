@@ -26,6 +26,7 @@ In other publications, we have looked at the secular transition in  [France](ass
 ### Religious revival
 A paper co-authored with Alexi Gugushvili and Francesco Molteni seeks to explain the astounding religious revival in Georgia from 1985 onwards. It has appeared in BJS and can be found [here](assets/2023_Georgia.pdf).
 A recent paper co-authored with David Voas proposes a new typology of mechanisms that lead to religious revival in the context of long-term secularization. It can be found [here](assets/2023_ExplainRevival.pdf).
+A follow-up paper co-authored with Marusa Novak (now Marusa Bastardi) describes the three most important religious revivals in the past decades world-wide: The Pentecostal, the Muslim, and the Orthdox revival. It can be found [here](assets/2023_Three_Revivals.pdf)
 
 
 ### Ethnicity
