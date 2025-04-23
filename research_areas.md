@@ -93,6 +93,8 @@ One of my theoretical ideas, probably inspired by my teacher Niklas Luhmann, is 
 
 For now, a general [outline](assets/2023_SocialGames.pdf) and a paper on [game heuristics](assets/2020_TitanicGame.pdf) is available. 
 
+[Here's](https://www.youtube.com/watch?v=_bSMlWsJfC8) an extended interview I gave on social game theory and religion at the Graduate Institute, Geneva. The interviewer was Leila Nadine Joutet.
+
 
 
 
