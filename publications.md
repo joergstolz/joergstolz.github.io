@@ -28,6 +28,8 @@ French translation: 2011, Stolz, Jörg and Edmée Ballif. L'avenir des Réformé
 
 ### Articles (Peer-Reviewed Journals)
 
+2023    Stolz, Jörg and Novak, Marusa, The three religious revivals. Pentecostal, Islamic, and Orthodox upswings in the context of long-term secularization. Journal of religion and demography, 10, 138-161.
+
 2023    Stolz, Jörg. The theory of social games: outline of a general theory for the social sciences. Humanities and Social Sciences Communications 10: 1-12
 
 2023    Stolz, Jörg, Gugushvili, Alexi, Molteni, Franceso and Antonietti, Jean-Philippe. A Counter-Example to Secularization Theory? Assessing the Georgian Religious Revival (published online). British Journal of Sociology.https://doi.org/10.1111/1468-4446.13009
