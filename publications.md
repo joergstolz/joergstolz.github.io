@@ -9,7 +9,7 @@ title: "Publications"
 
 ### Books
 
-[2022	Stolz Jörg, Bünker Arndt, Liedhegener Antonius et al. Religionstrends in der Schweiz. Religion, Spiritualität und Säkularität im Wandel. Springer](https://link.springer.com/book/10.1007/978-3-658-36568-4)
+2022	Stolz, Jörg, Arndt Bünker, Antonius Liedhegener et al. Religionstrends in der Schweiz. Religion, Spiritualität und Säkularität im Wandel. Wiesbaden: Springer VS. [PDF (open access)](https://link.springer.com/content/pdf/10.1007/978-3-658-36568-4.pdf) · [doi:10.1007/978-3-658-36568-4](https://doi.org/10.1007/978-3-658-36568-4)
 
 2014	Stolz, Jörg, Judith Könemann, Mallory Schneuwly Purdie, Thomas Englberger and Michael Krüggeler. Religion und Spiritualität in der Ich-Gesellschaft. Vier Gestalten des (Un-)Glaubens. Zürich: TVZ/NZN.
 
@@ -28,13 +28,25 @@ French translation: 2011, Stolz, Jörg and Edmée Ballif. L'avenir des Réformé
 
 ### Articles (Peer-Reviewed Journals)
 
-2023    Stolz, Jörg and Novak, Marusa, The three religious revivals. Pentecostal, Islamic, and Orthodox upswings in the context of long-term secularization. Journal of religion and demography, 10, 138-161.
+2026	Rainero, Valeria, Jörg Stolz and Ruud Luijkx. The Faith Factor. How Scholars' Religiosity Biases Research Findings on Secularization. Sociological Science 13: 154-177. [PDF](assets/2026_FaithFactor.pdf) · [doi:10.15195/v13.a7](https://doi.org/10.15195/v13.a7) (open access)
 
-2023    Stolz, Jörg. The theory of social games: outline of a general theory for the social sciences. Humanities and Social Sciences Communications 10: 1-12
+2025	Stolz, Jörg, Nan Dirk de Graaf, Conrad Hackett and Jean-Philippe Antonietti. The three stages of religious decline around the world. Nature Communications 16: 7202. [PDF](assets/2025_ThreeStages.pdf) · [doi:10.1038/s41467-025-62452-z](https://doi.org/10.1038/s41467-025-62452-z) (open access)
 
-2023    Stolz, Jörg, Gugushvili, Alexi, Molteni, Franceso and Antonietti, Jean-Philippe. A Counter-Example to Secularization Theory? Assessing the Georgian Religious Revival (published online). British Journal of Sociology.https://doi.org/10.1111/1468-4446.13009
+2025	Senn, Jeremy and Jörg Stolz. The Sequential Rise of Female Religious Leadership. Sociological Science 12: 180-201. [PDF](assets/2025_FemaleSequence.pdf) · [doi:10.15195/v12.a9](https://doi.org/10.15195/v12.a9) (open access)
 
-2023,   Stolz, Jörg and Voas, David. Explaining Religious Revival in the Context of Long-Term Secularization. Religions 14.
+2024	Stolz, Jörg, David Voas, Oliver Lipps and Jean-Philippe Antonietti. Can We Explain the Generation Gap in Churchgoing? Journal for the Scientific Study of Religion 63(4): 809-829. [PDF](assets/2024_GenerationGap.pdf) · [doi:10.1111/jssr.12923](https://doi.org/10.1111/jssr.12923) (open access)
+
+2024	Senn, Jeremy, Jörg Stolz and Christophe Monnot. Diversity Dynamics: How Local Religious Groups Appear, Persist, or Disappear over Time. Journal for the Scientific Study of Religion 63(3): 519-542. [PDF](assets/2024_DiversityDynamics.pdf) · [doi:10.1111/jssr.12907](https://doi.org/10.1111/jssr.12907) (open access)
+
+2023	Stolz, Jörg and Maruša Novak. The Three Religious Revivals. Pentecostal, Islamic, and Orthodox Upswings in the Context of Long-Term Secularization. Journal of Religion and Demography 10(1-2): 138-161. [Author version (SERVAL)](https://serval.unil.ch/resource/serval:BIB_07DA824EF762.P001/REF.pdf) · [doi:10.1163/2589742X-bja10020](https://doi.org/10.1163/2589742X-bja10020)
+
+2023	Stolz, Jörg. The theory of social games: outline of a general theory for the social sciences. Humanities and Social Sciences Communications 10: 369. [PDF](assets/2023_SocialGames.pdf) · [doi:10.1057/s41599-023-01862-0](https://doi.org/10.1057/s41599-023-01862-0) (open access)
+
+2023	Stolz, Jörg, Alexi Gugushvili, Francesco Molteni and Jean-Philippe Antonietti. A counterexample to secularization theory? Assessing the Georgian religious revival. British Journal of Sociology 74(4): 581-597. [PDF](assets/2023_Georgia.pdf) · [doi:10.1111/1468-4446.13009](https://doi.org/10.1111/1468-4446.13009) (open access)
+
+2023	Stolz, Jörg and David Voas. Explaining Religious Revival in the Context of Long-Term Secularization. Religions 14(6): 723. [PDF](assets/2023_ExplainRevival.pdf) · [doi:10.3390/rel14060723](https://doi.org/10.3390/rel14060723) (open access)
+
+2022	Lindemann, Anaïd and Jörg Stolz. To speak out or not to speak out? Exploring the reporting of discrimination among Muslims and Jews in Switzerland. Journal of Ethnic and Migration Studies 50(8): 1977-1997. [UNIL repository (SERVAL)](https://serval.unil.ch/notice/serval:BIB_7F5320DEBF2D) · [doi:10.1080/1369183X.2022.2130199](https://doi.org/10.1080/1369183X.2022.2130199)
 
 2021	Stolz, Jörg and Senn, Jeremy. 2021. Des générations à la foi décroissante: religion et sécularisation en Suisse 1930-2020. Social Change in Switzerland 27: 1-14.
 
@@ -106,18 +118,15 @@ French translation: 2011, Stolz, Jörg and Edmée Ballif. L'avenir des Réformé
 1999	Stolz, Jörg. Evangelikalismus Als Milieu.Schweizerische Zeitschrift für Soziologie 25(1):89-119.
 
 
-### Articles in preparation (Peer-Reviewed Journals)
+### Work in progress
 
-2022	Senn, Jeremy, Stolz, Jörg, Monnot, Christophe, Diversity dynamics. How local religious groups appear, persist, or disappear over time (in preparation)
+Stolz, Jörg. The games we play. A general sociological theory (book manuscript).
 
-2022	Lindemann, Anaïd, Stolz, Jörg. 2022. To speak out or not to speak out. To speak out 	or not to speak out? Exploring the reporting of discrimination among Muslims and Jews in Switzerland (R&R)
+Stolz, Jörg. Secularization because of secular alternatives? Clergy's perception of religious-secular competition (submitted).
 
-2022	Stolz, Jörg, Lipps, Oliver, and David Voas. 2022. Failing Religious Transmission. Secularization in the Light of a Panel Study in West- and East Germany (submitted)
+Stolz, Jörg and Nan Dirk de Graaf. The Continuing Secular Transition. Testing Predictions for 39 Countries from 2004 to 2022 (in preparation).
 
-2022	Stolz, Jörg, Gugushvili, Alexi, and Francesco Molteni. 2021. A Counter-Example to Secularization Theory? State Weakness as an Explanation for the Georgian Religious Revival 
-	 (submitted)
-
-2022	Stolz, Jörg, Social Games. Outline of a general theory of the social sciences  (submitted)
+Stolz, Jörg, Michael Grätz and Alicia García-Sierra. A God of One's Own? Sociological and Genetic Tests of the Religious Individualization Thesis (in preparation).
 
 
 ### Edited Books
@@ -134,6 +143,12 @@ French translation: 2009, Baumann, Martin and Jörg Stolz. La nouvelle Suisse re
 2007	Durisch Gauthier, Nicole, Jörg Stolz and Ilario Rossi. 2007. Entre soins médicaux et guérison spirituelle. Genève: Labor et Fides.
 
 ### Chapters in Books
+
+2025	Stolz, Jörg. Boudon and the Extraterrestrials. A Generative Model of the Emergence of a Religion. Pp. 219-249 in Boudon Reexamined. Nuts and Bolts for Contemporary Sociological Science, edited by G. Manzo. Paris: Sorbonne Université Presses. [PDF](assets/2025_Aliens.pdf)
+
+2025	Stolz, Jörg and Jeremy Senn. Religious markets, religious marketing, and individual religious choice in Europe. Pp. 97-112 in The Routledge Handbook of Religion and Politics in Europe. London: Routledge. [doi:10.4324/9781003152675-8](https://doi.org/10.4324/9781003152675-8)
+
+2022	Stolz, Jörg and Jeremy Senn. Generationen abnehmenden Glaubens. Pp. 7-31 in Religionstrends in der Schweiz, edited by J. Stolz et al. Wiesbaden: Springer VS. [PDF (open access)](https://link.springer.com/content/pdf/10.1007/978-3-658-36568-4_2.pdf)
 
 2019    Stolz, Jörg., & Tanner, Pascal. Elemente einer Theorie religiös-säkularer Konkurrenz. In U. Schumacher (Ed.), Abbrüche - Umbrüche - Aufbrüche. Gesellschaftlicher Wandel als Herausforderung für Glaube und Kirche (pp. 57-78). Münster: Aschendorff.
 
@@ -235,13 +250,27 @@ French version, reprint: 2019 Stolz, Jörg and Christophe Monnot. Églises étab
 
 ### Reports
 
+2024	Stolz, Jörg, Jens Köhrsen, Jeremy Senn, Christophe Monnot, Ann-Lea Buzzi and Adam Hearn. Säkularisierung und Inklusivität. Die Entwicklung lokaler religiöser Gruppen in der Schweiz, 2008-2022. Social Change in Switzerland 39. [PDF (German)](https://www.socialchangeswitzerland.ch/wp-content/uploads/2024/11/Social-change-Stolz-et-al.-2024_DE_final.pdf) · [PDF (French)](https://www.socialchangeswitzerland.ch/wp-content/uploads/2024/11/FR_Social_change_Stolz_et_al_2024_FR_New.pdf) · [Six changes (English summary)](https://wp.unil.ch/ncs2/files/2024/12/six_changes_EN.pdf)
+
 2011	Stolz, Jörg, Judith Könemann, Mallory Schneuwly Purdie and Thomas Englberger. Religiosität in der modernen Welt. Bedingungen, Konstruktionen und sozialer Wandel. Schlussbericht. Collectivités religieuses, Etat et société. Programme national de recherche PNR 58.
 
 2011	Stolz, Jörg, Mark Chaves, Christophe Monnot and Laurent Amiotte-Suchet. Die Religiösen Gemeinschaften in der Schweiz: Eigenschaften, Aktivitäten, Entwicklung. Schlussbericht. Collectivités religieuses, Etat et société. Programme national de recherche PNR 58.
 
 2001	Stolz, Jörg. Individuelle Religiosität, Kirchenbindung und Einstellungen zu den Kirchen im Kanton Zürich und in der Schweiz. Ein Bericht zuhanden des evangelisch-reformierten Kirchenrates des Kantons Zürich. Zürich.
 
+### Datasets
+
+2025	Senn, Jeremy, Jörg Stolz and Jens Köhrsen. National Congregations Study Switzerland (NCSS) cross-sectional surveys, waves 1 and 2 (2008-2009, 2022-2023). FORS. [doi:10.48573/km80-t892](https://doi.org/10.48573/km80-t892)
+
+2025	Senn, Jeremy, Jörg Stolz and Jens Köhrsen. National Congregations Study Switzerland (NCSS) congregational census, waves 1 and 2 (2008-2009, 2020-2021). FORS. [doi:10.48573/6tqz-q565](https://doi.org/10.48573/6tqz-q565)
+
 ### Book Reviews
+
+2024	Stolz, Jörg. Review of: Kasselstrand, Isabella, Phil Zuckerman and Ryan T. Cragun, Beyond Doubt: The Secularization of Society. Journal of Church and State 66(4): 274-275. [doi:10.1093/jcs/csae052](https://doi.org/10.1093/jcs/csae052)
+
+2023	Stolz, Jörg. Review of: Day, Abby, Why Baby Boomers Turned from Religion: Shaping Belief and Belonging, 1945-2021. Social Forces 102(2): e1. [doi:10.1093/sf/soad054](https://doi.org/10.1093/sf/soad054)
+
+2022	Stolz, Jörg. Review of: Bulutgil, H. Zeynep, The Origins of Secular Institutions. Ideas, Timing, and Organization. Journal for the Scientific Study of Religion 61(3-4): 750-751. [doi:10.1111/jssr.12809](https://doi.org/10.1111/jssr.12809)
 
 2016	Stolz, Jörg. Review of: Lehmann, Karsten, Religious Ngos in International Relations. The Construction of the Religious and the Secular, Routledge. Journal of Contemporary Religion.
 
@@ -254,7 +283,7 @@ French version, reprint: 2019 Stolz, Jörg and Christophe Monnot. Églises étab
 1999	Stolz, Jörg. Rezension Zu Konfession, Religion Und Soziale Netzwerke Von Robert Kecskes Und Christof Wolf.. Kölner Zeitschrift für Soziologie und Sozialpsychologie 49(2):361-63.
 
 
-(Updated 17.8.2022)
+(Updated 29.10.2026)
 
 
 
