@@ -21,6 +21,8 @@ David Voas has suggested in excellent publications that secularization takes the
 
 [Stolz, J., Pollack, D. and De Graaf , N.D. 2020. 'Can the State accelerate the Secular Transitition? Secularization in East- and West Germany as a Natural Experiment'. European Sociological Review 36: 626-642.](assets/2020_CanTheState.pdf)
 
+In a paper with Conrad Hackett, Nan Dirk de Graaf, and Jean-Philippe Antonietti, we have shown that the secular transition happens world-wide and takes a specific form: First, participation declines, then importance of religion, and then belonging (P-I-B sequence). The paper has appeared in Nature Communications: [The three stages of religious decline around the world](assets/2025_ThreeStages.pdf). 
+
 In other publications, we have looked at the secular transition in  [France](assets/2021_France.pdf) with Ferruccio Biolcati and Francesco Molteni. Recent results on Switzerland, from work with Jeremy Senn can be found [here](assets/2021_Generations_e.pdf). 
 
 ### Religious revival
